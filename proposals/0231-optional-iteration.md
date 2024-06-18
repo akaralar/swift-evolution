@@ -1,4 +1,4 @@
-# Optional Iteration
+# SE-0231 - Optional Iteration
 
 * Proposal: [SE-0231](0231-optional-iteration.md)
 * Author: [Anthony Latsis](https://github.com/AnthonyLatsis)

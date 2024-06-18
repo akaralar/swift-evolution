@@ -1,4 +1,4 @@
-# Unavailable From Async Attribute
+# SE-0340 - Unavailable From Async Attribute
 
 * Proposal: [SE-0340](0340-swift-noasync.md)
 * Authors: [Evan Wilde](https://github.com/etcwilde)

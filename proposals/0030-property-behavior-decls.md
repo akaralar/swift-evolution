@@ -1,4 +1,4 @@
-# Property Behaviors
+# SE-0030 - Property Behaviors
 
 * Proposal: [SE-0030](0030-property-behavior-decls.md)
 * Author: [Joe Groff](https://github.com/jckarter)

@@ -1,4 +1,4 @@
-# Identifiable Protocol
+# SE-0261 - Identifiable Protocol
 
 * Proposal: [SE-0261](0261-identifiable.md)
 * Authors: [Matthew Johnson](https://github.com/anandabits), [Kyle Macomber](https://github.com/kylemacomber)

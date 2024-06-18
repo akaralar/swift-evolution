@@ -1,4 +1,4 @@
-# Deprecate @UIApplicationMain and @NSApplicationMain
+# SE-0383 - Deprecate @UIApplicationMain and @NSApplicationMain
 
 * Proposal: [SE-0383](0383-deprecate-uiapplicationmain-and-nsapplicationmain.md)
 * Authors: [Robert Widmann](https://github.com/codafi)

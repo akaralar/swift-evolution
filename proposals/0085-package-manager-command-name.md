@@ -1,4 +1,4 @@
-# Package Manager Command Names
+# SE-0085 - Package Manager Command Names
 
 * Proposal: [SE-0085](0085-package-manager-command-name.md)
 * Authors: [Rick Ballard](https://github.com/rballard), [Daniel Dunbar](https://github.com/ddunbar)

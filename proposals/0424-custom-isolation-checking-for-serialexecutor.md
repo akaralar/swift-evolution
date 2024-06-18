@@ -1,4 +1,4 @@
-# Custom isolation checking for SerialExecutor
+# SE-0424 - Custom isolation checking for SerialExecutor
 
 * Proposal: [SE-0424](0424-custom-isolation-checking-for-serialexecutor.md)
 * Author: [Konrad 'ktoso' Malawski](https://github.com/ktoso)

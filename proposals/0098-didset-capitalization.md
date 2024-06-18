@@ -1,4 +1,4 @@
-# Lowercase `didSet` and `willSet` for more consistent keyword casing
+# SE-0098 - Lowercase `didSet` and `willSet` for more consistent keyword casing
 
 * Proposal: [SE-0098](0098-didset-capitalization.md)
 * Author: [Erica Sadun](https://github.com/erica)

@@ -1,4 +1,4 @@
-# Remove Sendable conformance from unsafe pointer types
+# SE-0331 - Remove Sendable conformance from unsafe pointer types
 
 * Proposal: [SE-0331](0331-remove-sendable-from-unsafepointer.md)
 * Authors: [Andrew Trick](https://github.com/atrick)

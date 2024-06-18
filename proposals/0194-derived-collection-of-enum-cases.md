@@ -1,4 +1,4 @@
-# Derived Collection of Enum Cases
+# SE-0194 - Derived Collection of Enum Cases
 
 * Proposal: [SE-0194](0194-derived-collection-of-enum-cases.md)
 * Authors: [Jacob Bandes-Storch](https://github.com/jtbandes), [Becca Royal-Gordon](https://github.com/beccadax), [Robert Widmann](https://github.com/CodaFi)

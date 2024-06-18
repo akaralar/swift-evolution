@@ -1,4 +1,4 @@
-# Value and Type Parameter Packs
+# SE-0393 - Value and Type Parameter Packs
 
 * Proposal: [SE-0393](0393-parameter-packs.md)
 * Authors: [Holly Borla](https://github.com/hborla), [John McCall](https://github.com/rjmccall), [Slava Pestov](https://github.com/slavapestov)

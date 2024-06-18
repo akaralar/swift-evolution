@@ -1,4 +1,4 @@
-# Generalize `conformance` macros as `extension` macros
+# SE-0402 - Generalize `conformance` macros as `extension` macros
 
 * Proposal: [SE-0402](0402-extension-macros.md)
 * Authors: [Holly Borla](https://github.com/hborla)

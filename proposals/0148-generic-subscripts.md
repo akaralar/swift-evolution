@@ -1,4 +1,4 @@
-# Generic Subscripts
+# SE-0148 - Generic Subscripts
 
 * Proposal: [SE-0148](0148-generic-subscripts.md)
 * Author: [Chris Eidhof](https://github.com/chriseidhof)

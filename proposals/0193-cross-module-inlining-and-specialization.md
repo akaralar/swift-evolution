@@ -1,4 +1,4 @@
-# Cross-module inlining and specialization
+# SE-0193 - Cross-module inlining and specialization
 
 * Proposal: [SE-0193](0193-cross-module-inlining-and-specialization.md)
 * Author: [Slava Pestov](https://github.com/slavapestov)

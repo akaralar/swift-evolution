@@ -1,4 +1,4 @@
-# Package Manager Platform Deployment Settings
+# SE-0236 - Package Manager Platform Deployment Settings
 
 * Proposal: [SE-0236](0236-package-manager-platform-deployment-settings.md)
 * Authors: [Ankit Aggarwal](https://github.com/aciidb0mb3r)

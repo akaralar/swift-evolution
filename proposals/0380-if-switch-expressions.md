@@ -1,4 +1,4 @@
-# `if` and `switch` expressions
+# SE-0380 - `if` and `switch` expressions
 
 * Proposal: [SE-0380](0380-if-switch-expressions.md)
 * Authors: [Ben Cohen](https://github.com/airspeedswift), [Hamish Knight](https://github.com/hamishknight)

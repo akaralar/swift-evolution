@@ -1,4 +1,4 @@
-# Allow Swift types to provide custom Objective-C representations
+# SE-0058 - Allow Swift types to provide custom Objective-C representations
 
 * Proposal: [SE-0058](0058-objectivecbridgeable.md)
 * Authors: [Russ Bishop](https://github.com/russbishop), [Doug Gregor](https://github.com/DougGregor)

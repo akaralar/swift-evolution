@@ -1,4 +1,4 @@
-# Regex lookbehind assertions
+# SE-0448 - Regex lookbehind assertions
 
 * Proposal: [SE-0448](0448-regex-lookbehind-assertions.md)
 * Authors: [Jacob Hearst](https://github.com/JacobHearst) [Michael Ilseman](https://github.com/milseman)

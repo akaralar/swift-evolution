@@ -1,4 +1,4 @@
-# Add `unicodeScalars` property to `Character`
+# SE-0178 - Add `unicodeScalars` property to `Character`
 
 * Proposal: [SE-0178](0178-character-unicode-view.md)
 * Author: [Ben Cohen](https://github.com/airspeedswift)

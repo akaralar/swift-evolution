@@ -1,4 +1,4 @@
-# Declaring executable targets in Package Manifests
+# SE-0294 - Declaring executable targets in Package Manifests
 
 * Proposal: [SE-0294](0294-package-executable-targets.md)
 * Authors: [Anders Bertelrud](https://github.com/abertelrud)

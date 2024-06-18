@@ -1,4 +1,4 @@
-# Additional Package Plugin APIs
+# SE-0325 - Additional Package Plugin APIs
 
 * Proposal: [SE-0325](0325-swiftpm-additional-plugin-apis.md)
 * Authors: [Anders Bertelrud](https://github.com/abertelrud)

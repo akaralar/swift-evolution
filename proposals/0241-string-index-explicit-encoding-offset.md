@@ -1,4 +1,4 @@
-# Deprecate String Index Encoded Offsets
+# SE-0241 - Deprecate String Index Encoded Offsets
 
 * Proposal: [SE-0241](0241-string-index-explicit-encoding-offset.md)
 * Author: [Michael Ilseman](https://github.com/milseman)

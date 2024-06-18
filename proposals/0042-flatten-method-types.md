@@ -1,4 +1,4 @@
-# Flattening the function type of unapplied method references
+# SE-0042 - Flattening the function type of unapplied method references
 
 * Proposal: [SE-0042](0042-flatten-method-types.md)
 * Author: [Joe Groff](https://github.com/jckarter)

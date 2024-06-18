@@ -1,4 +1,4 @@
-# Add Result to the Standard Library
+# SE-0235 - Add Result to the Standard Library
 
 * Proposal: [SE-0235](0235-add-result.md)
 * Author: [Jon Shier](https://github.com/jshier)

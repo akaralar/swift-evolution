@@ -1,4 +1,4 @@
-# Package Manager Extensible Build Tools
+# SE-0303 - Package Manager Extensible Build Tools
 
 * Proposal: [SE-0303](0303-swiftpm-extensible-build-tools.md)
 * Authors: [Anders Bertelrud](https://github.com/abertelrud), [Konrad 'ktoso' Malawski](https://github.com/ktoso), [Tom Doron](https://github.com/tomerd)

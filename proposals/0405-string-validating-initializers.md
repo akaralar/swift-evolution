@@ -1,4 +1,4 @@
-# String Initializers with Encoding Validation
+# SE-0405 - String Initializers with Encoding Validation
 
 * Proposal: [SE-0405](0405-string-validating-initializers.md)
 * Author: [Guillaume Lessard](https://github.com/glessard)

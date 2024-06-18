@@ -1,4 +1,4 @@
-# Handling Future Enum Cases
+# SE-0192 - Handling Future Enum Cases
 
 * Proposal: [SE-0192](0192-non-exhaustive-enums.md)
 * Author: [Jordan Rose](https://github.com/jrose-apple)

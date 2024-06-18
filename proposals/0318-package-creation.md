@@ -1,4 +1,4 @@
-# Package Creation
+# SE-0318 - Package Creation
 
 * Proposal: [SE-0318](0318-package-creation.md)
 * Author: [Miguel Perez](https://github.com/miggs597)

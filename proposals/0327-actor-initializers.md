@@ -1,4 +1,4 @@
-# On Actors and Initialization
+# SE-0327 - On Actors and Initialization
 
 * Proposal: [SE-0327](0327-actor-initializers.md)
 * Authors: [Kavon Farvardin](https://github.com/kavon), [John McCall](https://github.com/rjmccall), [Konrad Malawski](https://github.com/ktoso)

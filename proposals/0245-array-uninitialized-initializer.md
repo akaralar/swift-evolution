@@ -1,4 +1,4 @@
-# Add an Array Initializer with Access to Uninitialized Storage
+# SE-0245 - Add an Array Initializer with Access to Uninitialized Storage
 
 * Proposal: [SE-0245](0245-array-uninitialized-initializer.md)
 * Author: [Nate Cook](https://github.com/natecook1000)

@@ -1,4 +1,4 @@
-# Package Manager C Language Target Support
+# SE-0038 - Package Manager C Language Target Support
 
 * Proposal: [SE-0038](0038-swiftpm-c-language-targets.md)
 * Author: [Daniel Dunbar](https://github.com/ddunbar)

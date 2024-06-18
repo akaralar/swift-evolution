@@ -1,4 +1,4 @@
-# Package traits
+# SE-0450 - Package traits
 
 * Proposal: [SE-0450](0450-swiftpm-package-traits.md)
 * Authors: [Franz Busch](https://github.com/FranzBusch), [Max Desiatov](https://github.com/MaxDesiatov)

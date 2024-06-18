@@ -1,4 +1,4 @@
-# Generalize effect polymorphism for `AsyncSequence` and `AsyncIteratorProtocol`
+# SE-0421 - Generalize effect polymorphism for `AsyncSequence` and `AsyncIteratorProtocol`
 
 * Proposal: [SE-0421](0421-generalize-async-sequence.md)
 * Authors: [Doug Gregor](https://github.com/douggregor), [Holly Borla](https://github.com/hborla)

@@ -1,4 +1,4 @@
-# Improving `String.Index`'s printed descriptions 
+# SE-0445 - Improving `String.Index`'s printed descriptions
 
 * Proposal: [SE-0445](0445-string-index-printing.md)
 * Authors: [Karoy Lorentey](https://github.com/lorentey)

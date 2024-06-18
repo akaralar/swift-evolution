@@ -1,4 +1,4 @@
-# Package Registry Service - Publish Endpoint
+# SE-0321 - Package Registry Service - Publish Endpoint
 
 * Proposal: [SE-0321](0321-package-registry-publish.md)
 * Authors: [Whitney Imura](https://github.com/whitneyimura),

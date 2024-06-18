@@ -1,4 +1,4 @@
-# Ease the transition to concise magic file strings
+# SE-0285 - Ease the transition to concise magic file strings
 
 * Proposal: [SE-0285](0285-ease-pound-file-transition.md)
 * Author: [Becca Royal-Gordon](https://github.com/beccadax)

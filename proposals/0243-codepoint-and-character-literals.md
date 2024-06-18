@@ -1,4 +1,4 @@
-# Integer-convertible character literals
+# SE-0243 - Integer-convertible character literals
 
 * Proposal: [SE-0243](0243-codepoint-and-character-literals.md)
 * Authors: [Dianna Ma (“Taylor Swift”)](https://github.com/tayloraswift), [Chris Lattner](https://github.com/lattner), [John Holdsworth](https://github.com/johnno1962)

@@ -1,4 +1,4 @@
-# Regex builder DSL
+# SE-0351 - Regex builder DSL
 
 * Proposal: [SE-0351](0351-regex-builder.md)
 * Authors: [Richard Wei](https://github.com/rxwei), [Michael Ilseman](https://github.com/milseman), [Nate Cook](https://github.com/natecook1000), [Alejandro Alonso](https://github.com/azoy)

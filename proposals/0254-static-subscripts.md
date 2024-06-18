@@ -1,4 +1,4 @@
-# Static and class subscripts
+# SE-0254 - Static and class subscripts
 
 * Proposal: [SE-0254](0254-static-subscripts.md)
 * Author: [Becca Royal-Gordon](https://github.com/beccadax)

@@ -1,4 +1,4 @@
-# Allow (most) keywords in member references
+# SE-0071 - Allow (most) keywords in member references
 
 * Proposal: [SE-0071](0071-member-keywords.md)
 * Author: [Doug Gregor](https://github.com/DougGregor)

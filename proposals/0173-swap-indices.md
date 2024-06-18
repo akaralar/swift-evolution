@@ -1,4 +1,4 @@
-# Add `MutableCollection.swapAt(_:_:)`
+# SE-0173 - Add `MutableCollection.swapAt(_:_:)`
 
 * Proposal: [SE-0173](0173-swap-indices.md)
 * Author: [Ben Cohen](https://github.com/airspeedswift)

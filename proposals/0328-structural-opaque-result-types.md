@@ -1,4 +1,4 @@
-# Structural opaque result types
+# SE-0328 - Structural opaque result types
 
 * Proposal: [SE-0328](0328-structural-opaque-result-types.md)
 * Authors: [Benjamin Driscoll](https://github.com/willtunnels), [Holly Borla](https://github.com/hborla)

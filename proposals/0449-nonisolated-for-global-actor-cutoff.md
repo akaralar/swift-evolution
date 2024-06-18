@@ -1,4 +1,4 @@
-# Allow `nonisolated` to prevent global actor inference
+# SE-0449 - Allow `nonisolated` to prevent global actor inference
 
 * Proposal: [SE-0449](0449-nonisolated-for-global-actor-cutoff.md)
 * Authors: [Sima Nerush](https://github.com/simanerush), [Holly Borla](https://github.com/hborla)

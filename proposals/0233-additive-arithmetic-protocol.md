@@ -1,4 +1,4 @@
-# Make  `Numeric`  Refine a new  `AdditiveArithmetic`  Protocol
+# SE-0233 - Make  `Numeric`  Refine a new  `AdditiveArithmetic`  Protocol
 
 * Proposal: [SE-0233](0233-additive-arithmetic-protocol.md)
 * Author: [Richard Wei](https://github.com/rxwei)

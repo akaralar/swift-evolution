@@ -1,4 +1,4 @@
-# Attached Macros
+# SE-0389 - Attached Macros
 
 * Proposal: [SE-0389](0389-attached-macros.md)
 * Authors: [Doug Gregor](https://github.com/DougGregor), [Holly Borla](https://github.com/hborla), [Richard Wei](https://github.com/rxwei)

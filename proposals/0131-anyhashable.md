@@ -1,4 +1,4 @@
-# Add `AnyHashable` to the standard library
+# SE-0131 - Add `AnyHashable` to the standard library
 
 * Proposal: [SE-0131](0131-anyhashable.md)
 * Author: [Dmitri Gribenko](https://github.com/gribozavr)

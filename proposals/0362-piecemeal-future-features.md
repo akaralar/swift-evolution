@@ -1,4 +1,4 @@
-# Piecemeal adoption of upcoming language improvements
+# SE-0362 - Piecemeal adoption of upcoming language improvements
 
 * Proposal: [SE-0362](0362-piecemeal-future-features.md)
 * Authors: [Doug Gregor](https://github.com/DougGregor)

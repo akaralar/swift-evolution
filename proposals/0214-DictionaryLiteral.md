@@ -1,4 +1,4 @@
-# Renaming the `DictionaryLiteral` type to `KeyValuePairs`
+# SE-0214 - Renaming the `DictionaryLiteral` type to `KeyValuePairs`
 
 * Proposal: [SE-0214](0214-DictionaryLiteral.md)
 * Authors: [Erica Sadun](https://github.com/erica), [Chéyo Jiménez](https://github.com/masters3d)

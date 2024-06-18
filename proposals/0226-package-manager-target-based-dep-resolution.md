@@ -1,4 +1,4 @@
-# Package Manager Target Based Dependency Resolution
+# SE-0226 - Package Manager Target Based Dependency Resolution
 
 * Proposal: [SE-0226](0226-package-manager-target-based-dep-resolution.md)
 * Authors: [Ankit Aggarwal](https://github.com/aciidb0mb3r)

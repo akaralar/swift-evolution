@@ -1,4 +1,4 @@
-# Continuations for interfacing async tasks with synchronous code
+# SE-0300 - Continuations for interfacing async tasks with synchronous code
 
 * Proposal: [SE-0300](0300-continuation.md)
 * Authors: [John McCall](https://github.com/rjmccall), [Joe Groff](https://github.com/jckarter), [Doug Gregor](https://github.com/DougGregor), [Konrad Malawski](https://github.com/ktoso)

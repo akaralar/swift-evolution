@@ -1,4 +1,4 @@
-# Replace `typealias` keyword with `associatedtype` for associated type declarations
+# SE-0011 - Replace `typealias` keyword with `associatedtype` for associated type declarations
 
 * Proposal: [SE-0011](0011-replace-typealias-associated.md)
 * Author: [Loïc Lecrenier](https://github.com/loiclec)

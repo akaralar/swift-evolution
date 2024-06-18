@@ -1,4 +1,4 @@
-# Member import visibility
+# SE-0444 - Member import visibility
 
 * Proposal: [SE-0444](0444-member-import-visibility.md)
 * Authors: [Allan Shortlidge](https://github.com/tshortli)

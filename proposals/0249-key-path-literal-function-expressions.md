@@ -1,4 +1,4 @@
-# Key Path Expressions as Functions
+# SE-0249 - Key Path Expressions as Functions
 
 * Proposal: [SE-0249](0249-key-path-literal-function-expressions.md)
 * Authors: [Stephen Celis](https://github.com/stephencelis), [Greg Titus](https://github.com/gregomni)

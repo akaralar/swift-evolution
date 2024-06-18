@@ -1,4 +1,4 @@
-# Add Generic Result and Error Handling to autoreleasepool()
+# SE-0061 - Add Generic Result and Error Handling to autoreleasepool()
 
 * Proposal: [SE-0061](0061-autoreleasepool-signature.md)
 * Author: [Timothy J. Wood](https://github.com/tjw)

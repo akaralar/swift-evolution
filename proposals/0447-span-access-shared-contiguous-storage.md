@@ -1,4 +1,4 @@
-# Span: Safe Access to Contiguous Storage
+# SE-0447 - Span: Safe Access to Contiguous Storage
 
 * Proposal: [SE-0447](0447-span-access-shared-contiguous-storage.md)
 * Authors: [Guillaume Lessard](https://github.com/glessard), [Michael Ilseman](https://github.com/milseman), [Andrew Trick](https://github.com/atrick)

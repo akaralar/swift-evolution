@@ -1,4 +1,4 @@
-# Integer Generic Parameters
+# SE-0452 - Integer Generic Parameters
 
 * Proposal: [SE-0452](0452-integer-generic-parameters.md)
 * Authors: [Alejandro Alonso](https://github.com/Azoy), [Joe Groff](https://github.com/jckarter)

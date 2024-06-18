@@ -1,4 +1,4 @@
-# Remove the `Boolean` protocol
+# SE-0109 - Remove the `Boolean` protocol
 
 * Proposal: [SE-0109](0109-remove-boolean.md)
 * Authors: [Anton Zhilin](https://github.com/Anton3), [Chris Lattner](https://github.com/lattner)

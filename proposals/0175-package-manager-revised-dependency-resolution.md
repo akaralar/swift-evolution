@@ -1,4 +1,4 @@
-# Package Manager Revised Dependency Resolution
+# SE-0175 - Package Manager Revised Dependency Resolution
 
 * Proposal: [SE-0175](0175-package-manager-revised-dependency-resolution.md)
 * Author: [Rick Ballard](https://github.com/rballard)

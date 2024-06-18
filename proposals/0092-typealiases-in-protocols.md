@@ -1,4 +1,4 @@
-# Typealiases in protocols and protocol extensions
+# SE-0092 - Typealiases in protocols and protocol extensions
 
 * Proposal: [SE-0092](0092-typealiases-in-protocols.md)
 * Authors: [David Hart](https://github.com/hartbit), [Doug Gregor](https://github.com/DougGregor)

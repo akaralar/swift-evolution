@@ -1,4 +1,4 @@
-# Member Macro Conformances
+# SE-0407 - Member Macro Conformances
 
 * Proposal: [SE-0407](0407-member-macro-conformances.md)
 * Authors: [Doug Gregor](https://github.com/DougGregor)

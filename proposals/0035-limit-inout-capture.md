@@ -1,4 +1,4 @@
-# Limiting `inout` capture to `@noescape` contexts
+# SE-0035 - Limiting `inout` capture to `@noescape` contexts
 
 * Proposal: [SE-0035](0035-limit-inout-capture.md)
 * Author: [Joe Groff](https://github.com/jckarter)

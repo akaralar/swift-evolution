@@ -1,4 +1,4 @@
-# Pointer API Usability Improvements
+# SE-0334 - Pointer API Usability Improvements
 
 * Proposal: [SE-0334](0334-pointer-usability-improvements.md)
 * Authors: [Guillaume Lessard](https://github.com/glessard), [Andrew Trick](https://github.com/atrick)

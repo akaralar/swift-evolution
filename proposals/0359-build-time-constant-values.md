@@ -1,4 +1,4 @@
-# Build-Time Constant Values
+# SE-0359 - Build-Time Constant Values
 
 * Proposal: [SE-0359](0359-build-time-constant-values.md)
 * Authors: [Artem Chikin](https://github.com/artemcm), [Ben Cohen](https://github.com/airspeedswift), [Xi Ge](https://github.com/nkcsgexi)

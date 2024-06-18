@@ -1,4 +1,4 @@
-# Extending Static Member Lookup in Generic Contexts
+# SE-0299 - Extending Static Member Lookup in Generic Contexts
 
 * Proposal: [SE-0299](0299-extend-generic-static-member-lookup.md)
 * Authors: [Pavel Yaskevich](https://github.com/xedin), [Sam Lazarus](https://github.com/sl), [Matt Ricketson](https://github.com/ricketson)

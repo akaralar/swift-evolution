@@ -1,4 +1,4 @@
-# Disallow coercion to optionals in operator arguments
+# SE-0123 - Disallow coercion to optionals in operator arguments
 
 * Proposal: [SE-0123](0123-disallow-value-to-optional-coercion-in-operator-arguments.md)
 * Authors: [Mark Lacey](https://github.com/rudkx), [Doug Gregor](https://github.com/DougGregor), [Jacob Bandes-Storch](https://github.com/jtbandes)

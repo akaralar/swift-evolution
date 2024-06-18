@@ -1,4 +1,4 @@
-# Remove `Sequence.SubSequence`
+# SE-0234 - Remove `Sequence.SubSequence`
 
 * Proposal: [SE-0234](0234-remove-sequence-subsequence.md)
 * Authors: [Ben Cohen](https://github.com/airspeedswift)

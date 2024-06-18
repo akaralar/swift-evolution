@@ -1,4 +1,4 @@
-# Custom Actor Executors
+# SE-0392 - Custom Actor Executors
 
 * Proposal: [SE-0392](0392-custom-actor-executors.md)
 * Authors: [Konrad 'ktoso' Malawski](https://github.com/ktoso), [John McCall](https://github.com/rjmccall), [Kavon Farvardin](https://github.com/kavon)

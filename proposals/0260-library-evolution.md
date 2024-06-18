@@ -1,4 +1,4 @@
-# Library Evolution for Stable ABIs
+# SE-0260 - Library Evolution for Stable ABIs
 
 * Proposal: [SE-0260](0260-library-evolution.md)
 * Authors: [Jordan Rose](https://github.com/jrose-apple), [Ben Cohen](https://github.com/airspeedswift)

@@ -1,4 +1,4 @@
-# Declare variables in 'case' labels with multiple patterns 
+# SE-0043 - Declare variables in 'case' labels with multiple patterns
 
 * Proposal: [SE-0043](0043-declare-variables-in-case-labels-with-multiple-patterns.md)
 * Author: [Andrew Bennett](https://github.com/therealbnut)

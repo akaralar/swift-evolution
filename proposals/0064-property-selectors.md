@@ -1,4 +1,4 @@
-# Referencing the Objective-C selector of property getters and setters
+# SE-0064 - Referencing the Objective-C selector of property getters and setters
 
 * Proposal: [SE-0064](0064-property-selectors.md)
 * Author: [David Hart](https://github.com/hartbit)

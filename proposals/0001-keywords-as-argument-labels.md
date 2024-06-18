@@ -1,4 +1,4 @@
-# Allow (most) keywords as argument labels
+# SE-0001 - Allow (most) keywords as argument labels
 
 * Proposal: [SE-0001](0001-keywords-as-argument-labels.md)
 * Author: [Doug Gregor](https://github.com/DougGregor)

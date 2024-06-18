@@ -1,4 +1,4 @@
-# Nonescapable Types
+# SE-0446 - Nonescapable Types
 
 * Proposal: [SE-0446](0446-non-escapable.md)
 * Authors: [Andrew Trick](https://github.com/atrick), [Tim Kientzle](https://github.com/tbkka)

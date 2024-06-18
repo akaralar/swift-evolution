@@ -1,4 +1,4 @@
-# Improved control over actor isolation
+# SE-0313 - Improved control over actor isolation
 
 * Proposal: [SE-0313](0313-actor-isolation-control.md)
 * Authors: [Doug Gregor](https://github.com/DougGregor), [Chris Lattner](https://github.com/lattner)

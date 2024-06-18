@@ -1,4 +1,4 @@
-# Allow coding of non `String` / `Int` keyed `Dictionary` into a `KeyedContainer`
+# SE-0320 - Allow coding of non `String` / `Int` keyed `Dictionary` into a `KeyedContainer`
 
 * Proposal: [SE-0320](0320-codingkeyrepresentable.md)
 * Author: [Morten Bek Ditlevsen](https://github.com/mortenbekditlevsen)

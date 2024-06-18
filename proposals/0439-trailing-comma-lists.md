@@ -1,4 +1,4 @@
-# Allow trailing comma in comma-separated lists
+# SE-0439 - Allow trailing comma in comma-separated lists
 
 * Proposal: [SE-0439](0439-trailing-comma-lists.md)
 * Author: [Mateus Rodrigues](https://github.com/mateusrodriguesxyz)

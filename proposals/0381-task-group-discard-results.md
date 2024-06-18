@@ -1,4 +1,4 @@
-# DiscardingTaskGroups
+# SE-0381 - DiscardingTaskGroups
 
 * Proposal: [SE-0381](0381-task-group-discard-results.md)
 * Authors: [Cory Benfield](https://github.com/Lukasa), [Konrad Malawski](https://github.com/ktoso)

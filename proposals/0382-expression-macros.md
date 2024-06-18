@@ -1,4 +1,4 @@
-# Expression Macros
+# SE-0382 - Expression Macros
 
 * Proposal: [SE-0382](0382-expression-macros.md)
 * Authors: [Doug Gregor](https://github.com/DougGregor)

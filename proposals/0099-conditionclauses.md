@@ -1,4 +1,4 @@
-# Restructuring Condition Clauses
+# SE-0099 - Restructuring Condition Clauses
 
 * Proposal: [SE-0099](0099-conditionclauses.md)
 * Authors: [Erica Sadun](https://github.com/erica), [Chris Lattner](https://github.com/lattner)

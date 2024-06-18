@@ -1,4 +1,4 @@
-# Make unsafe pointer nullability explicit using Optional
+# SE-0055 - Make unsafe pointer nullability explicit using Optional
 
 * Proposal: [SE-0055](0055-optional-unsafe-pointers.md)
 * Author: [Jordan Rose](https://github.com/jrose-apple)

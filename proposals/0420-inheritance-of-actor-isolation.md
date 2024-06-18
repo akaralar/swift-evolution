@@ -1,4 +1,4 @@
-# Inheritance of actor isolation
+# SE-0420 - Inheritance of actor isolation
 
 * Proposal: [SE-0420](0420-inheritance-of-actor-isolation.md)
 * Authors: [John McCall](https://github.com/rjmccall), [Holly Borla](https://github.com/hborla), [Doug Gregor](https://github.com/douggregor)

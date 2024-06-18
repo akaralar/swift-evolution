@@ -1,4 +1,4 @@
-# Update API Naming Guidelines and Rewrite Set APIs Accordingly
+# SE-0059 - Update API Naming Guidelines and Rewrite Set APIs Accordingly
 
 * Proposal: [SE-0059](0059-updated-set-apis.md)
 * Author: [Dave Abrahams](https://github.com/dabrahams)

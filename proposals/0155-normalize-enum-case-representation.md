@@ -1,4 +1,4 @@
-# Normalize Enum Case Representation
+# SE-0155 - Normalize Enum Case Representation
 
 * Proposal: [SE-0155][]
 * Authors: [Daniel Duan][], [Joe Groff][]

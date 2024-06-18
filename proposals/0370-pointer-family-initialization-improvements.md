@@ -1,4 +1,4 @@
-# Pointer Family Initialization Improvements and Better Buffer Slices
+# SE-0370 - Pointer Family Initialization Improvements and Better Buffer Slices
 
 * Proposal: [SE-0370](0370-pointer-family-initialization-improvements.md)
 * Author: [Guillaume Lessard](https://github.com/glessard)

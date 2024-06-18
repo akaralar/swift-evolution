@@ -1,4 +1,4 @@
-# Unaligned Loads and Stores from Raw Memory
+# SE-0349 - Unaligned Loads and Stores from Raw Memory
 
 * Proposal: [SE-0349](0349-unaligned-loads-and-stores.md)
 * Authors: [Guillaume Lessard](https://github.com/glessard), [Andrew Trick](https://github.com/atrick)

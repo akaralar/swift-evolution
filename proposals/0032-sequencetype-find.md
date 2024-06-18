@@ -1,4 +1,4 @@
-# Add `first(where:)` method to `Sequence`
+# SE-0032 - Add `first(where:)` method to `Sequence`
 
 * Proposal: [SE-0032](0032-sequencetype-find.md)
 * Author: [Lily Ballard](https://github.com/lilyball)

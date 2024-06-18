@@ -1,4 +1,4 @@
-# Avoiding Lock-In to Legacy Protocol Designs
+# SE-0137 - Avoiding Lock-In to Legacy Protocol Designs
 
 * Proposal: [SE-0137](0137-avoiding-lock-in.md)
 * Authors: [Dave Abrahams](https://github.com/dabrahams), [Dmitri Gribenko](https://github.com/gribozavr)

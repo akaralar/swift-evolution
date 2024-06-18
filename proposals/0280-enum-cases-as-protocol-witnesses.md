@@ -1,4 +1,4 @@
-# Enum cases as protocol witnesses
+# SE-0280 - Enum cases as protocol witnesses
 
 * Proposal: [SE-0280](0280-enum-cases-as-protocol-witnesses.md)
 * Author: [Suyash Srijan](https://github.com/theblixguy)

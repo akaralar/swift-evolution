@@ -1,4 +1,4 @@
-# Tuple of value pack expansion
+# SE-0399 - Tuple of value pack expansion
 
 * Proposal: [SE-0399](0399-tuple-of-value-pack-expansion.md)
 * Authors: [Sophia Poirier](https://github.com/sophiapoirier), [Holly Borla](https://github.com/hborla)

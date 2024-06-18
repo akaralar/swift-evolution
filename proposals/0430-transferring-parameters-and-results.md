@@ -1,4 +1,4 @@
-# `sending` parameter and result values
+# SE-0430 - `sending` parameter and result values
 
 * Proposal: [SE-0430](0430-transferring-parameters-and-results.md)
 * Authors: [Michael Gottesman](https://github.com/gottesmm), [Holly Borla](https://github.com/hborla), [John McCall](https://github.com/rjmccall)

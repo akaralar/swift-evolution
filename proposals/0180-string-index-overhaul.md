@@ -1,4 +1,4 @@
-# String Index Overhaul
+# SE-0180 - String Index Overhaul
 
 * Proposal: [SE-0180](0180-string-index-overhaul.md)
 * Author: [Dave Abrahams](https://github.com/dabrahams)

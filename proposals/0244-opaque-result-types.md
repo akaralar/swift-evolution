@@ -1,4 +1,4 @@
-# Opaque Result Types
+# SE-0244 - Opaque Result Types
 
 * Proposal: [SE-0244](0244-opaque-result-types.md)
 * Authors: [Doug Gregor](https://github.com/DougGregor), [Joe Groff](https://github.com/jckarter)

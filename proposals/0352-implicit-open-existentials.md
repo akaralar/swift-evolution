@@ -1,4 +1,4 @@
-# Implicitly Opened Existentials
+# SE-0352 - Implicitly Opened Existentials
 
 * Proposal: [SE-0352](0352-implicit-open-existentials.md)
 * Authors: [Doug Gregor](https://github.com/DougGregor)

@@ -1,4 +1,4 @@
-# Unicode for String Processing
+# SE-0363 - Unicode for String Processing
 
 * Proposal: [SE-0363](0363-unicode-for-string-processing.md)
 * Authors: [Nate Cook](https://github.com/natecook1000), [Alejandro Alonso](https://github.com/Azoy)

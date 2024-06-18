@@ -1,4 +1,4 @@
-# Naming Functions with Argument Labels
+# SE-0021 - Naming Functions with Argument Labels
 
 * Proposal: [SE-0021](0021-generalized-naming.md)
 * Author: [Doug Gregor](https://github.com/DougGregor)

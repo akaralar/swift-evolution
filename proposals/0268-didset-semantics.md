@@ -1,4 +1,4 @@
-# Refine `didSet` Semantics
+# SE-0268 - Refine `didSet` Semantics
 
 * Proposal: [SE-0268](0268-didset-semantics.md)
 * Author: [Suyash Srijan](https://github.com/theblixguy)

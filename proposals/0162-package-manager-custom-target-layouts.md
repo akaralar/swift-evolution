@@ -1,4 +1,4 @@
-# Package Manager Custom Target Layouts
+# SE-0162 - Package Manager Custom Target Layouts
 
 * Proposal: [SE-0162](0162-package-manager-custom-target-layouts.md)
 * Author: [Ankit Aggarwal](https://github.com/aciidb0mb3r)

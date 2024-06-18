@@ -1,4 +1,4 @@
-# Vector, a fixed-size array
+# SE-0453 - Vector, a fixed-size array
 
 * Proposal: [SE-0453](0453-vector.md)
 * Authors: [Alejandro Alonso](https://github.com/Azoy)

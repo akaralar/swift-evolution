@@ -1,4 +1,4 @@
-# Add `@noescape` to public library API
+# SE-0012 - Add `@noescape` to public library API
 
 * Proposal: [SE-0012](0012-add-noescape-to-public-library-api.md)
 * Author: [Jacob Bandes-Storch](https://github.com/jtbandes)

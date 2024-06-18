@@ -1,4 +1,4 @@
-# Add Unicode Properties to `Unicode.Scalar`
+# SE-0211 - Add Unicode Properties to `Unicode.Scalar`
 
 * Proposal: [SE-0211](0211-unicode-scalar-properties.md)
 * Author: [Tony Allevato](https://github.com/allevato)

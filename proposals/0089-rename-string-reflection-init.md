@@ -1,4 +1,4 @@
-# Renaming `String.init<T>(_: T)`
+# SE-0089 - Renaming `String.init<T>(_: T)`
 
 * Proposal: [SE-0089](0089-rename-string-reflection-init.md)
 * Authors: [Austin Zheng](https://github.com/austinzheng), [Becca Royal-Gordon](https://github.com/beccadax)

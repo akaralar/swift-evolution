@@ -1,4 +1,4 @@
-# Package Manager Mixed Language Target Support
+# SE-0403 - Package Manager Mixed Language Target Support
 
 * Proposal: [SE-0403](0403-swiftpm-mixed-language-targets.md)
 * Authors: [Nick Cooke](https://github.com/ncooke3)

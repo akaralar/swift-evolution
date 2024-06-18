@@ -1,4 +1,4 @@
-# Change failable UnicodeScalar initializers to failable
+# SE-0128 - Change failable UnicodeScalar initializers to failable
 
 * Proposal: [SE-0128](0128-unicodescalar-failable-initializer.md)
 * Author: [Xin Tong](https://github.com/trentxintong)

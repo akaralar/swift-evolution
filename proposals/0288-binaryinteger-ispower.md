@@ -1,4 +1,4 @@
-# Adding `isPower(of:)` to `BinaryInteger`
+# SE-0288 - Adding `isPower(of:)` to `BinaryInteger`
 
 * Proposal: [SE-0288](0288-binaryinteger-ispower.md)
 * Author: [Ding Ye](https://github.com/dingobye)

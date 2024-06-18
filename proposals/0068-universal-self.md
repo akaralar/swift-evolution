@@ -1,4 +1,4 @@
-# Expanding Swift `Self` to class members and value types
+# SE-0068 - Expanding Swift `Self` to class members and value types
 
 * Proposal: [SE-0068](0068-universal-self.md)
 * Author: [Erica Sadun](https://github.com/erica)

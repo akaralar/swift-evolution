@@ -1,4 +1,4 @@
-# Add CustomDebugStringConvertible conformance to AnyKeyPath
+# SE-0369 - Add CustomDebugStringConvertible conformance to AnyKeyPath
 
 * Proposal: [SE-0369](0369-add-customdebugdescription-conformance-to-anykeypath.md)
 * Author: [Ben Pious](https://github.com/benpious)

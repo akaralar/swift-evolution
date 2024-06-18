@@ -1,4 +1,4 @@
-# Concurrency in Top-level Code
+# SE-0343 - Concurrency in Top-level Code
 
 * Proposal: [SE-0343](0343-top-level-concurrency.md)
 * Authors: [Evan Wilde](https://github.com/etcwilde)

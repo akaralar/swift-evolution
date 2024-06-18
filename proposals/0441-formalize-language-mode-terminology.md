@@ -1,4 +1,4 @@
-# Formalize ‘language mode’ terminology
+# SE-0441 - Formalize ‘language mode’ terminology
 
 * Proposal: [SE-0441](0441-formalize-language-mode-terminology.md)
 * Author: [James Dempsey](https://github.com/dempseyatgithub)

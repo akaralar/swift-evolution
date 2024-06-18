@@ -1,4 +1,4 @@
-# Closure Parameter Names and Labels
+# SE-0118 - Closure Parameter Names and Labels
 
 * Proposal: [SE-0118](0118-closure-parameter-names-and-labels.md)
 * Authors: [Dave Abrahams](https://github.com/dabrahams), [Dmitri Gribenko](https://github.com/gribozavr), [Maxim Moiseev](https://github.com/moiseev)

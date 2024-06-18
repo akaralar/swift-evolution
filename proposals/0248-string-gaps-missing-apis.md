@@ -1,4 +1,4 @@
-# String Gaps and Missing APIs
+# SE-0248 - String Gaps and Missing APIs
 
 * Proposal: [SE-0248](0248-string-gaps-missing-apis.md)
 * Author: [Michael Ilseman](https://github.com/milseman)

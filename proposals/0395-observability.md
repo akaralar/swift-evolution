@@ -1,4 +1,4 @@
-# Observation
+# SE-0395 - Observation
 
 * Proposal: [SE-0395](0395-observability.md)
 * Authors: [Philippe Hausler](https://github.com/phausler), [Nate Cook](https://github.com/natecook1000)

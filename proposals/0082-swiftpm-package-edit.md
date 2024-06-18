@@ -1,4 +1,4 @@
-# Package Manager Editable Packages
+# SE-0082 - Package Manager Editable Packages
 
 * Proposal: [SE-0082](0082-swiftpm-package-edit.md)
 * Author: [Daniel Dunbar](https://github.com/ddunbar)

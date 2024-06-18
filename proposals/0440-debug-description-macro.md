@@ -1,4 +1,4 @@
-# DebugDescription Macro
+# SE-0440 - DebugDescription Macro
 
 * Proposal: [SE-0440](0440-debug-description-macro.md)
 * Authors: [Dave Lee](https://github.com/kastiglione)

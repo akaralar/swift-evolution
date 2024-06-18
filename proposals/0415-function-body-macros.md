@@ -1,4 +1,4 @@
-# Function Body Macros
+# SE-0415 - Function Body Macros
 
 * Proposal: [SE-0415](0415-function-body-macros.md)
 * Authors: [Doug Gregor](https://github.com/DougGregor)

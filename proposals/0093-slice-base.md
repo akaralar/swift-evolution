@@ -1,4 +1,4 @@
-# Adding a public `base` property to slices
+# SE-0093 - Adding a public `base` property to slices
 
 * Proposal: [SE-0093](0093-slice-base.md)
 * Author: [Max Moiseev](https://github.com/moiseev)

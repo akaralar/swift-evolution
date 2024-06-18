@@ -1,4 +1,4 @@
-# Regex-powered string processing algorithms
+# SE-0357 - Regex-powered string processing algorithms
 
 * Proposal: [SE-0357](0357-regex-string-processing-algorithms.md)
 * Authors: [Tina Liu](https://github.com/itingliu), [Michael Ilseman](https://github.com/milseman), [Nate Cook](https://github.com/natecook1000), [Tim Vermeulen](https://github.com/timvermeulen)

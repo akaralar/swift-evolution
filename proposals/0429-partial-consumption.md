@@ -1,4 +1,4 @@
-# Partial consumption of noncopyable values
+# SE-0429 - Partial consumption of noncopyable values
 
 * Proposal: [SE-0429](0429-partial-consumption.md)
 * Authors: [Michael Gottesman](https://github.com/gottesmm), [Nate Chandler](https://github.com/nate-chandler)

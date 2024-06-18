@@ -1,4 +1,4 @@
-# Generic Type Aliases
+# SE-0048 - Generic Type Aliases
 
 * Proposal: [SE-0048](0048-generic-typealias.md)
 * Author: [Chris Lattner](https://github.com/lattner)

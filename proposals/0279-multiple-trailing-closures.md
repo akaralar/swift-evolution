@@ -1,4 +1,4 @@
-# Multiple Trailing Closures
+# SE-0279 - Multiple Trailing Closures
 
 * Proposal: [SE-0279](0279-multiple-trailing-closures.md)
 * Authors: [Kyle Macomber](https://github.com/kylemacomber), [Pavel Yaskevich](https://github.com/xedin), [Doug Gregor](https://github.com/douggregor), [John McCall](https://github.com/rjmccall)

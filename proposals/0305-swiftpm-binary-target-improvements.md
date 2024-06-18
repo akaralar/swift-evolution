@@ -1,4 +1,4 @@
-# Package Manager Binary Target Improvements
+# SE-0305 - Package Manager Binary Target Improvements
 
 * Proposal: [SE-0305](0305-swiftpm-binary-target-improvements.md)
 * Authors: [Anders Bertelrud](https://github.com/abertelrud), [Tom Doron](https://github.com/tomerd)

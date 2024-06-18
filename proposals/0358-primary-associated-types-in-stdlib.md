@@ -1,4 +1,4 @@
-# Primary Associated Types in the Standard Library
+# SE-0358 - Primary Associated Types in the Standard Library
 
 * Proposal: [SE-0358](0358-primary-associated-types-in-stdlib.md)
 * Authors: [Karoy Lorentey](https://github.com/lorentey)

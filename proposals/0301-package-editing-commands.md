@@ -1,4 +1,4 @@
-# Package Editor Commands
+# SE-0301 - Package Editor Commands
 
 * Proposal: [SE-0301](0301-package-editing-commands.md) 
 * Authors: [Owen Voorhees](https://github.com/owenv)

@@ -1,4 +1,4 @@
-# Contiguous Strings
+# SE-0247 - Contiguous Strings
 
 * Proposal: [SE-0247](0247-contiguous-strings.md)
 * Author: [Michael Ilseman](https://github.com/milseman)

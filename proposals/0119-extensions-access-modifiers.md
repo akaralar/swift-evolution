@@ -1,4 +1,4 @@
-# Remove access modifiers from extensions
+# SE-0119 - Remove access modifiers from extensions
 
 * Proposal: [SE-0119](0119-extensions-access-modifiers.md)
 * Author: [Adrian Zubarev](https://github.com/DevAndArtist)

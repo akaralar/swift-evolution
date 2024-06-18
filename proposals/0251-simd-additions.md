@@ -1,4 +1,4 @@
-# SIMD additions
+# SE-0251 - SIMD additions
 
 * Proposal: [SE-0251](0251-simd-additions.md)
 * Author: [Stephen Canon](https://github.com/stephentyrone)

@@ -1,4 +1,4 @@
-# Effectful Read-only Properties
+# SE-0310 - Effectful Read-only Properties
 
 * Proposal: [SE-0310](0310-effectful-readonly-properties.md)
 * Author: [Kavon Farvardin](https://github.com/kavon)

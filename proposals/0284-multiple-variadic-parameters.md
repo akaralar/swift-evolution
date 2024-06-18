@@ -1,4 +1,4 @@
-# Allow Multiple Variadic Parameters in Functions, Subscripts, and Initializers
+# SE-0284 - Allow Multiple Variadic Parameters in Functions, Subscripts, and Initializers
 
 * Proposal: [SE-0284](0284-multiple-variadic-parameters.md)
 * Author: [Owen Voorhees](https://github.com/owenv)

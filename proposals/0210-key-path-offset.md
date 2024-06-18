@@ -1,4 +1,4 @@
-# Add an `offset(of:)` method to `MemoryLayout`
+# SE-0210 - Add an `offset(of:)` method to `MemoryLayout`
 
 * Proposal: [SE-0210](0210-key-path-offset.md)
 * Authors: [Joe Groff](https://github.com/jckarter)

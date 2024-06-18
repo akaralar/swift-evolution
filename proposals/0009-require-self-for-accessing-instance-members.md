@@ -1,4 +1,4 @@
-# Require self for accessing instance members
+# SE-0009 - Require self for accessing instance members
 
 * Proposal: [SE-0009](0009-require-self-for-accessing-instance-members.md)
 * Author: [David Hart](https://github.com/hartbit)

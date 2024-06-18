@@ -1,4 +1,4 @@
-# Permit where clauses to constrain associated types
+# SE-0142 - Permit where clauses to constrain associated types
 
 * Proposal: [SE-0142](0142-associated-types-constraints.md)
 * Authors: [David Hart](https://github.com/hartbit), [Jacob Bandes-Storch](https://github.com/jtbandes), [Doug Gregor](https://github.com/DougGregor)

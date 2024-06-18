@@ -1,4 +1,4 @@
-# Remove explicit use of `let` from Function Parameters
+# SE-0053 - Remove explicit use of `let` from Function Parameters
 
 * Proposal: [SE-0053](0053-remove-let-from-function-parameters.md)
 * Author: [Nicholas Maccharoli](https://github.com/nirma)

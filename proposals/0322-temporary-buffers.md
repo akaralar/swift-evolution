@@ -1,4 +1,4 @@
-# Temporary uninitialized buffers
+# SE-0322 - Temporary uninitialized buffers
 
 * Proposal: [SE-0322](0322-temporary-buffers.md)
 * Author: [Jonathan Grynspan](https://github.com/grynspan)

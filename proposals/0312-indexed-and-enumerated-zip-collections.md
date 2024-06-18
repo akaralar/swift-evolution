@@ -1,4 +1,4 @@
-# Add `indexed()` and `Collection` conformances for `enumerated()` and `zip(_:_:)`
+# SE-0312 - Add `indexed()` and `Collection` conformances for `enumerated()` and `zip(_:_:)`
 
 * Proposal: [SE-0312](0312-indexed-and-enumerated-zip-collections.md)
 * Author: [Tim Vermeulen](https://github.com/timvermeulen)

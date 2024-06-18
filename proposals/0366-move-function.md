@@ -1,4 +1,4 @@
-# `consume` operator to end the lifetime of a variable binding
+# SE-0366 - `consume` operator to end the lifetime of a variable binding
 
 * Proposal: [SE-0366](0366-move-function.md)
 * Authors: [Michael Gottesman](https://github.com/gottesmm), [Andrew Trick](https://github.com/atrick), [Joe Groff](https://github.com/jckarter)

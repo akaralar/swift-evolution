@@ -1,4 +1,4 @@
-# Lift all limitations on variables in result builders
+# SE-0373 - Lift all limitations on variables in result builders
 
 * Proposal: [SE-0373](0373-vars-without-limits-in-result-builders.md)
 * Author: [Pavel Yaskevich](https://github.com/xedin)

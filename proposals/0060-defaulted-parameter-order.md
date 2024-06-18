@@ -1,4 +1,4 @@
-# Enforcing order of defaulted parameters
+# SE-0060 - Enforcing order of defaulted parameters
 
 * Proposal: [SE-0060](0060-defaulted-parameter-order.md)
 * Author: [Joe Groff](https://github.com/jckarter)

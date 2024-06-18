@@ -1,4 +1,4 @@
-# Constrained Existential Types
+# SE-0353 - Constrained Existential Types
 
 * Proposal: [SE-0353](0353-constrained-existential-types.md)
 * Authors: [Robert Widmann](https://github.com/codafi)

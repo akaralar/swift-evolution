@@ -1,4 +1,4 @@
-# Implement a rotate algorithm, equivalent to std::rotate() in C++
+# SE-0078 - Implement a rotate algorithm, equivalent to std::rotate() in C++
 
 * Proposal: [SE-0078](0078-rotate-algorithm.md)
 * Authors: [Nate Cook](https://github.com/natecook1000), [Sergey Bolshedvorsky](https://github.com/bolshedvorsky)

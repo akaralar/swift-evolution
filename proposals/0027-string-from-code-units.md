@@ -1,4 +1,4 @@
-# Expose code unit initializers on String
+# SE-0027 - Expose code unit initializers on String
 
 * Proposal: [SE-0027](0027-string-from-code-units.md)
 * Author: [Zachary Waldowski](https://github.com/zwaldowski)

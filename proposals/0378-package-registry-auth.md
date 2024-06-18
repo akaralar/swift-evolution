@@ -1,4 +1,4 @@
-# Package Registry Authentication
+# SE-0378 - Package Registry Authentication
 
 * Proposal: [SE-0378](0378-package-registry-auth.md)
 * Author: [Yim Lee](https://github.com/yim-lee)

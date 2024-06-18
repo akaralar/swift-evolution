@@ -1,4 +1,4 @@
-# New access modifier: `package`
+# SE-0386 - New access modifier: `package`
 
 * Proposal: [SE-0386](0386-package-access-modifier.md)
 * Authors: [Ellie Shin](https://github.com/elsh), [Alexis Laferriere](https://github.com/xymus)

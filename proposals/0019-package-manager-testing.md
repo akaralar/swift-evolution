@@ -1,4 +1,4 @@
-# Swift Testing
+# SE-0019 - Swift Testing
 
 * Proposal: [SE-0019](0019-package-manager-testing.md)
 * Authors: [Max Howell](https://github.com/mxcl), [Daniel Dunbar](https://github.com/ddunbar), [Mattt Thompson](https://github.com/mattt)

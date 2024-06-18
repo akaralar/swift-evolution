@@ -1,4 +1,4 @@
-# Noncopyable structs and enums
+# SE-0390 - Noncopyable structs and enums
 
 * Proposal: [SE-0390](0390-noncopyable-structs-and-enums.md)
 * Authors: [Joe Groff](https://github.com/jckarter), [Michael Gottesman](https://github.com/gottesmm), [Andrew Trick](https://github.com/atrick), [Kavon Farvardin](https://github.com/kavon)

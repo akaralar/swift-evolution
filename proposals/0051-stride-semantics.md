@@ -1,4 +1,4 @@
-# Conventionalizing `stride` semantics
+# SE-0051 - Conventionalizing `stride` semantics
 
 * Proposal: [SE-0051](0051-stride-semantics.md)
 * Author: [Erica Sadun](https://github.com/erica)

@@ -1,4 +1,4 @@
-# Extensions on bound generic types
+# SE-0361 - Extensions on bound generic types
 
 * Proposal: [SE-0361](0361-bound-generic-extensions.md)
 * Authors: [Holly Borla](https://github.com/hborla)

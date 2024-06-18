@@ -1,4 +1,4 @@
-# Abolish `ImplicitlyUnwrappedOptional` type
+# SE-0054 - Abolish `ImplicitlyUnwrappedOptional` type
 
 * Proposal: [SE-0054](0054-abolish-iuo.md)
 * Author: [Chris Willmore](https://github.com/cwillmor)

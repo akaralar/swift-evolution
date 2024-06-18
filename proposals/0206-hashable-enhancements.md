@@ -1,4 +1,4 @@
-# Hashable Enhancements
+# SE-0206 - Hashable Enhancements
 
 * Proposal: [SE-0206](0206-hashable-enhancements.md)
 * Authors: [Karoy Lorentey](https://github.com/lorentey), [Vincent Esche](https://github.com/regexident)

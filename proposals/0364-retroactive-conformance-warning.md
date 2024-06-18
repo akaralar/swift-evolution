@@ -1,4 +1,4 @@
-# Warning for Retroactive Conformances of External Types
+# SE-0364 - Warning for Retroactive Conformances of External Types
 
 * Proposal: [SE-0364](0364-retroactive-conformance-warning.md)
 * Author: [Harlan Haskins](https://github.com/harlanhaskins)

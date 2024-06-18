@@ -1,4 +1,4 @@
-# Resolve DistributedActor protocols
+# SE-0428 - Resolve DistributedActor protocols
 
 * Proposal: [SE-0428](0428-resolve-distributed-actor-protocols.md)
 * Author: [Konrad 'ktoso' Malawski](https://github.com/ktoso), [Pavel Yaskevich](https://github.com/xedin)

@@ -1,4 +1,4 @@
-# Key Path Member Lookup
+# SE-0252 - Key Path Member Lookup
 
 * Proposal: [SE-0252](0252-keypath-dynamic-member-lookup.md)
 * Authors: [Doug Gregor](https://github.com/DougGregor), [Pavel Yaskevich](https://github.com/xedin)

@@ -1,4 +1,4 @@
-# Allow TaskGroup's ChildTaskResult Type To Be Inferred
+# SE-0442 - Allow TaskGroup's ChildTaskResult Type To Be Inferred
 
 * Proposal: [SE-0442](0442-allow-taskgroup-childtaskresult-type-to-be-inferred.md)
 * Author: [Richard L Zarth III](https://github.com/rlziii)

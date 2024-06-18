@@ -1,4 +1,4 @@
-# Add a `macOS` Alias for the `OSX` Platform Configuration Test
+# SE-0106 - Add a `macOS` Alias for the `OSX` Platform Configuration Test
 
 * Proposal: [SE-0106](0106-rename-osx-to-macos.md)
 * Author: [Erica Sadun](https://github.com/erica)

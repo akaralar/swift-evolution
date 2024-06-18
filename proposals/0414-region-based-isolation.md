@@ -1,4 +1,4 @@
-# Region based Isolation
+# SE-0414 - Region based Isolation
 
 * Proposal: [SE-0414](0414-region-based-isolation.md)
 * Authors: [Michael Gottesman](https://github.com/gottesmm) [Joshua Turcotti](https://github.com/jturcotti)

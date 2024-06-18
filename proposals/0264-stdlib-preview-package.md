@@ -1,4 +1,4 @@
-# Standard Library Preview Package
+# SE-0264 - Standard Library Preview Package
 
 * Proposal: [SE-0264](0264-stdlib-preview-package.md)
 * Authors: [Ben Cohen](https://github.com/airspeedswift), [Max Moiseev](https://github.com/moiseev), [Nate Cook](https://github.com/natecook1000)

@@ -1,4 +1,4 @@
-# Pack Iteration
+# SE-0408 - Pack Iteration
 
 * Proposal: [SE-0408](0408-pack-iteration.md)
 * Authors: [Sima Nerush](https://github.com/simanerush), [Holly Borla](https://github.com/hborla)

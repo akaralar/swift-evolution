@@ -1,4 +1,4 @@
-# Modernize libdispatch for Swift 3 naming conventions
+# SE-0088 - Modernize libdispatch for Swift 3 naming conventions
 
 * Proposal: [SE-0088](0088-libdispatch-for-swift3.md)
 * Author: [Matt Wright](https://github.com/mwwa)

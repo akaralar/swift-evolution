@@ -1,4 +1,4 @@
-# Opaque Parameter Declarations
+# SE-0341 - Opaque Parameter Declarations
 
 * Proposal: [SE-0341](0341-opaque-parameters.md)
 * Author: [Doug Gregor](https://github.com/DougGregor)

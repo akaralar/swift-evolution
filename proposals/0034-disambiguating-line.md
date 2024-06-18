@@ -1,4 +1,4 @@
-# Disambiguating Line Control Statements from Debugging Identifiers
+# SE-0034 - Disambiguating Line Control Statements from Debugging Identifiers
 
 * Proposal: [SE-0034](0034-disambiguating-line.md)
 * Author: [Erica Sadun](https://github.com/erica)

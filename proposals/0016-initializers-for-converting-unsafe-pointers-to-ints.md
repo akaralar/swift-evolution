@@ -1,4 +1,4 @@
-# Add initializers to Int and UInt to convert from UnsafePointer and UnsafeMutablePointer
+# SE-0016 - Add initializers to Int and UInt to convert from UnsafePointer and UnsafeMutablePointer
 
 * Proposal: [SE-0016](0016-initializers-for-converting-unsafe-pointers-to-ints.md)
 * Author: [Michael Buckley](https://github.com/MichaelBuckley)

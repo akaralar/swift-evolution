@@ -1,4 +1,4 @@
-# Reconfiguring `sizeof` and related functions into a unified `MemoryLayout` struct
+# SE-0101 - Reconfiguring `sizeof` and related functions into a unified `MemoryLayout` struct
 
 * Proposal: [SE-0101](0101-standardizing-sizeof-naming.md)
 * Authors: [Erica Sadun](https://github.com/erica), [Dave Abrahams](https://github.com/dabrahams)

@@ -1,4 +1,4 @@
-# Standardize function type argument syntax to require parentheses
+# SE-0066 - Standardize function type argument syntax to require parentheses
 
 * Proposal: [SE-0066](0066-standardize-function-type-syntax.md)
 * Author: [Chris Lattner](https://github.com/lattner)

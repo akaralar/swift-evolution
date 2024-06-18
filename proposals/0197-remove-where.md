@@ -1,4 +1,4 @@
-# Adding in-place `removeAll(where:)` to the Standard Library
+# SE-0197 - Adding in-place `removeAll(where:)` to the Standard Library
 
 * Proposal: [SE-0197](0197-remove-where.md)
 * Author: [Ben Cohen](https://github.com/airspeedswift)

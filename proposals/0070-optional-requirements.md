@@ -1,4 +1,4 @@
-# Make Optional Requirements Objective-C-only
+# SE-0070 - Make Optional Requirements Objective-C-only
 
 * Proposal: [SE-0070](0070-optional-requirements.md)
 * Author: [Doug Gregor](https://github.com/DougGregor)

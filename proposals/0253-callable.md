@@ -1,4 +1,4 @@
-# Callable values of user-defined nominal types
+# SE-0253 - Callable values of user-defined nominal types
 
 * Proposal: [SE-0253](0253-callable.md)
 * Authors: [Richard Wei](https://github.com/rxwei), [Dan Zheng](https://github.com/dan-zheng)
@@ -440,23 +440,23 @@ called "function calls".
   [Swift API Design Guidelines - Strive for Fluent
   Usage](https://swift.org/documentation/api-design-guidelines/#strive-for-fluent-usage),
   functions should be named according to their side-effects.
-  
+
   > Those with side-effects should read as imperative verb phrases, e.g.,
   > `print(x)`, `x.sort()`, `x.append(y)`.
-  
+
   Both `apply` and `invoke` are clearly imperative verbs. If call-syntax
   delegate methods must be named `apply` or `invoke`, their declarations and
   direct references will almost certainly read like a mutating function while
   they may not be.
-  
+
   In contrast, `call` is both a noun and a verb. It is perfectly
   suited for describing the precise functionality while not having a strong
   implication about the function's side-effects.
-  
+
   **call**
   - _v._ Cause (a subroutine) to be executed.
   - _n._ A command to execute a subroutine.
-  
+
 After the second round of proposal review, the core team accepted the proposal
 while revising the function base name to `callFunction`. The revision invoked a
 significant amount of bikeshedding on [the
@@ -500,7 +500,7 @@ struct Adder {
 
     // Option: `func` with an underscore at the base name position.
     func _(_ x: Int) -> Int
-    
+
     // Option: `func` with a `self` keyword at the base name position.
     func self(_ x: Int) -> Int
 
@@ -551,18 +551,18 @@ However, there are two concerns.
 * First, we feel that using a `@callableMethod` method attribute is more noisy,
   as many callable values do not need a special name for its call-syntax
   delegate methods.
-  
+
 * Second, custom names often involve argument labels that form a phrase with the
   base name in order to be idiomatic. The grammaticality will be lost in the
   call syntax when the base name disappears.
-  
+
   ```swift
   struct Layer {
       ...
       @callDelegate
       func applied(to x: Int) -> Int { ... }
   }
-  
+
   let layer: Layer = ...
   layer.applied(to: x) // Grammatical.
   layer(to: x)         // Broken.
@@ -595,7 +595,7 @@ struct Adder {
 We feel this approach is not ideal because a marker type attribute is not
 particularly meaningful. The call-syntax delegate methods of a type are what
 make values of that type callable - a type attribute means nothing by itself.
-There's also an unfortunate edge case that must be explicitly handled: if a
+There's also an unforunate edge case that must be explicitly handled: if a
 `@staticCallable` type defines no call-syntax delegate methods, an error must be
 produced.
 
@@ -661,4 +661,4 @@ np.random.randint(-10, 10, dtype: np.float)
 np.random.randint(["": -10, "": 10, "dtype": np.float])
 ```
 
-[static-and-class-subscripts]: https://forums.swift.org/t/pitch-static-and-class-subscripts/21850 
+[static-and-class-subscripts]: https://forums.swift.org/t/pitch-static-and-class-subscripts/21850

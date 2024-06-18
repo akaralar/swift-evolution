@@ -1,4 +1,4 @@
-# Package Registry Publish
+# SE-0391 - Package Registry Publish
 
 * Proposal: [SE-0391](0391-package-registry-publish.md)
 * Author: [Yim Lee](https://github.com/yim-lee)

@@ -1,4 +1,4 @@
-# Init Accessors
+# SE-0400 - Init Accessors
 
 * Proposal: [SE-0400](0400-init-accessors.md)
 * Authors: [Holly Borla](https://github.com/hborla), [Doug Gregor](https://github.com/douggregor)

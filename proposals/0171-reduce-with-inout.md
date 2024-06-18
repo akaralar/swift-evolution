@@ -1,4 +1,4 @@
-# Reduce with `inout`
+# SE-0171 - Reduce with `inout`
 
 * Proposal: [SE-0171](0171-reduce-with-inout.md)
 * Author: [Chris Eidhof](https://github.com/chriseidhof)

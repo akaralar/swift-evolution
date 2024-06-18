@@ -1,4 +1,4 @@
-# Introduce `withContiguous{Mutable}StorageIfAvailable` methods
+# SE-0237 - Introduce `withContiguous{Mutable}StorageIfAvailable` methods
 
 * Proposal: [SE-0237](0237-contiguous-collection.md)
 * Author: [Ben Cohen](https://github.com/airspeedswift)

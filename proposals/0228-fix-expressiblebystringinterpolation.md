@@ -1,4 +1,4 @@
-# Fix `ExpressibleByStringInterpolation`
+# SE-0228 - Fix `ExpressibleByStringInterpolation`
 
 * Proposal: [SE-0228](0228-fix-expressiblebystringinterpolation.md)
 * Authors: [Becca Royal-Gordon](https://github.com/beccadax), [Michael Ilseman](https://github.com/milseman)

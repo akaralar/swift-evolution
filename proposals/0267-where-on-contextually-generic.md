@@ -1,4 +1,4 @@
-# `where` clauses on contextually generic declarations
+# SE-0267 - `where` clauses on contextually generic declarations
 
 * Proposal: [SE-0267](0267-where-on-contextually-generic.md)
 * Author: [Anthony Latsis](https://github.com/AnthonyLatsis)

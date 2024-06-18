@@ -1,4 +1,4 @@
-# Synthesizing `Equatable` and `Hashable` conformance
+# SE-0185 - Synthesizing `Equatable` and `Hashable` conformance
 
 * Proposal: [SE-0185](0185-synthesize-equatable-hashable.md)
 * Author: [Tony Allevato](https://github.com/allevato)

@@ -1,4 +1,4 @@
-# String Newline Escaping
+# SE-0182 - String Newline Escaping
 
 * Proposal: [SE-0182](0182-newline-escape-in-strings.md)
 * Authors: [John Holdsworth](https://github.com/johnno1962), [David Hart](https://github.com/hartbit), [Adrian Zubarev](https://github.com/DevAndArtist)

@@ -1,4 +1,4 @@
-# Conditional conformances
+# SE-0143 - Conditional conformances
 
 * Proposal: [SE-0143](0143-conditional-conformances.md)
 * Author: [Doug Gregor](https://github.com/DougGregor)

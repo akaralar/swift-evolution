@@ -1,4 +1,4 @@
-# Conditionals in Collections
+# SE-0330 - Conditionals in Collections
 
 * Proposal: [SE-0330](0330-collection-conditionals.md)
 * Authors: [John Holdsworth](https://github.com/johnno1962)

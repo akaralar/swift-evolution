@@ -1,4 +1,4 @@
-# Unlock existentials for all protocols
+# SE-0309 - Unlock existentials for all protocols
 
 * Proposal: [SE-0309](0309-unlock-existential-types-for-all-protocols.md)
 * Authors: [Anthony Latsis](https://github.com/AnthonyLatsis), [Filip Sakel](https://github.com/filip-sakel), [Suyash Srijan](https://github.com/theblixguy)

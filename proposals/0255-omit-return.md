@@ -1,4 +1,4 @@
-# Implicit returns from single-expression functions
+# SE-0255 - Implicit returns from single-expression functions
 
 * Proposal: [SE-0255](0255-omit-return.md)
 * Author: [Nate Chandler](https://github.com/nate-chandler)

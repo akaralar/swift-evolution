@@ -1,4 +1,4 @@
-# Referencing the Objective-C selector of a method
+# SE-0022 - Referencing the Objective-C selector of a method
 
 * Proposal: [SE-0022](0022-objc-selectors.md)
 * Author: [Doug Gregor](https://github.com/DougGregor)

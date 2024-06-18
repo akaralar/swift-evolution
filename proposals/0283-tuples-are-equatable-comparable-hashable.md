@@ -1,4 +1,4 @@
-# Tuples Conform to `Equatable`, `Comparable`, and `Hashable`
+# SE-0283 - Tuples Conform to `Equatable`, `Comparable`, and `Hashable`
 
 * Proposal: [SE-0283](0283-tuples-are-equatable-comparable-hashable.md)
 * Author: [Alejandro Alonso](https://github.com/Azoy)

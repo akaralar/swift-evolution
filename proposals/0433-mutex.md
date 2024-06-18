@@ -1,4 +1,4 @@
-# Synchronous Mutual Exclusion Lock 🔒
+# SE-0433 - Synchronous Mutual Exclusion Lock 🔒
 
 * Proposal: [SE-0433](0433-mutex.md)
 * Author: [Alejandro Alonso](https://github.com/Azoy)

@@ -1,4 +1,4 @@
-# String Revision: Collection Conformance, C Interop, Transcoding
+# SE-0163 - String Revision: Collection Conformance, C Interop, Transcoding
 
 * Proposal: [SE-0163](0163-string-revision-1.md)
 * Authors: [Ben Cohen](https://github.com/airspeedswift), [Dave Abrahams](https://github.com/dabrahams/)

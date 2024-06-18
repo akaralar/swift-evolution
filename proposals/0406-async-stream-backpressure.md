@@ -1,4 +1,4 @@
-# Backpressure support for AsyncStream
+# SE-0406 - Backpressure support for AsyncStream
 
 * Proposal: [SE-0406](0406-async-stream-backpressure.md)
 * Author: [Franz Busch](https://github.com/FranzBusch)

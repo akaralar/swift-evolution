@@ -1,4 +1,4 @@
-# Package Manager Binary Dependencies
+# SE-0272 - Package Manager Binary Dependencies
 
 * Proposal: [SE-0272](0272-swiftpm-binary-dependencies.md)
 * Authors: [Braden Scothern](https://github.com/bscothern), [Daniel Dunbar](https://github.com/ddunbar), [Franz Busch](https://github.com/FranzBusch)

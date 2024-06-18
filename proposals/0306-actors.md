@@ -1,4 +1,4 @@
-# Actors
+# SE-0306 - Actors
 
 * Proposal: [SE-0306](0306-actors.md)
 * Authors: [John McCall](https://github.com/rjmccall), [Doug Gregor](https://github.com/DougGregor), [Konrad Malawski](https://github.com/ktoso), [Chris Lattner](https://github.com/lattner)

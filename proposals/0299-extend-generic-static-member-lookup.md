@@ -273,7 +273,7 @@ CheckboxToggleStyle.switch
 // and so on and so forth
 ```
 
-# Revision History
+## Revision History
 
 The [initial revision of this proposal](https://github.com/swiftlang/swift-evolution/blob/4dd3a9c85195185ab7ad99c468732c5b568d51ac/proposals/0299-extend-generic-static-member-lookup.md)
 allowed contextual member lookup to find protocol extension members without

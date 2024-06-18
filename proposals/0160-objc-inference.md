@@ -599,12 +599,12 @@ intentionally exposing an Objective-C entrypoint for some
 reason. Thus, explicitly writing `@objc` indicates intent without
 creating boilerplate.
 
-# Acknowledgments
+## Acknowledgments
 
 Thanks to Brian King for noting the inference of `dynamic` and its
 relationship to this proposal.
 
-# Revision history
+## Revision history
 
 [Version 1](https://github.com/swiftlang/swift-evolution/blob/0389b1f49fc55b1a898701c549ce89738307b9fc/proposals/0160-objc-inference.md)
 of this proposal did not include the use of `@objcMembers` on classes

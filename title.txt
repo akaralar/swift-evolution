@@ -1,0 +1,10 @@
+---
+title:
+- type: main
+  text: Swift Evolution
+creator:
+- role: author
+  text: Swift Community
+date: 2024-11-20
+description: Proposals for changes and user-visible enhancements to the Swift Programming Language.
+---

@@ -6,8 +6,8 @@
 * Status: **Implemented (Swift 5.4)**
 * Previous Revisions: [1st](https://github.com/swiftlang/swift-evolution/blob/51c99447562e749b23f82184c99c0ddfb07a71df/proposals/0289-function-builders.md)
 
-Table of Contents
-=================
+## Table of Contents
+
    * [Result builders](#result-builders)
       * [Changes from the first revision](#changes-from-the-first-revision)
       * [Introduction](#introduction)

@@ -1383,9 +1383,9 @@ The following are a few of the more notable approaches considered for the proble
     }
     ```
 
-# Appendix
+## Appendix
 
-## `JSONSerialization` Friction and Third-Party Solutions (Motivation)
+### `JSONSerialization` Friction and Third-Party Solutions (Motivation)
 
 The following example usage of `JSONSerialization` is taken from the README of [SwiftyJSON](https://github.com/swiftyjson/swiftyjson), a third-party library that many developers use to interface with JSON models:
 
@@ -1488,7 +1488,7 @@ There are tradeoffs made here as well. ObjectMapper requires that all of your pr
 
 We would like to provide a solution that skirts neither type safety, nor ease-of-use and -implementation.
 
-## Unabridged API
+### Unabridged API
 
 ```swift
 /// Conformance to `Encodable` indicates that a type can encode itself to an external representation.

@@ -7,14 +7,14 @@
 * Implementation: [apple/swift#21876](https://github.com/apple/swift/pull/22714)
 * Review: ([previous pitch 1](https://forums.swift.org/t/se-0084-spinoff-newlines-as-item-separators/2659)) ([previous pitch 2](https://forums.swift.org/t/trailing-commas-in-all-expression-lists/19527)) ([pitch](https://forums.swift.org/t/pitch-eliding-commas-from-multiline-expression-lists/22558)) ([review](https://forums.swift.org/t/se-0257-eliding-commas-from-multiline-expression-lists/22889)) ([returned for revision](https://forums.swift.org/t/se-0257-eliding-commas-from-multiline-expression-lists/22889/191))
 
-# Introduction
+## Introduction
 
 Swift requires a semicolon "`;`" to separate statements unless those statements are separated by newlines, in which case the semicolon can be elided.  Currently, Swift requires a comma "`,`" to separate expressions even when those statements are separated by newlines.  We should ease this restriction, allowing the comma between two expressions to be elided when they are separated by a newline.
 
 * Implementation: [apple/swift#21876](https://github.com/apple/swift/pull/22714)
 * Previous Pitch: [SE-0084 spinoff: Newlines as item separators](https://forums.swift.org/t/se-0084-spinoff-newlines-as-item-separators/2659)
 
-## Reducing visual clutter
+### Reducing visual clutter
 
 When writing a list of expressions, you insert commas to tell the compiler where one expression ends and the next begins.  When you add a newline between the expressions, though, you provide that same information by way of the newline characters.  When newlines are present, commas provide clarity neither to human readers nor to the compiler.
 
@@ -134,7 +134,7 @@ StringTests.test("AssociatedTypes-UTF16View") {
 
 The difference is subtle but striking.
 
-## Making domain-specific languages first-class
+### Making domain-specific languages first-class
 
 One case where the problem of visual clutter is especially pronounced is in domain-specific languages embedded (EDSLs) within Swift.  Particularly when those EDSLs are "declarative".
 
@@ -198,7 +198,7 @@ By allowing statement separators to be omitted when a newline is present while r
 
 This example EDSL is not taken from a real library.  There are, despite the current limitation, many shipping Swift libraries that make extensive use of EDSLs.  Let's take a look at the EDSLs from those in several different domains to see how they would be improved by comma elision:
 
-### Networking EDSL case study: HTTP Requests
+#### Networking EDSL case study: HTTP Requests
 
 HTTP requests are pervasive in modern applications.  To avoid dealing directly with networking-layer API, higher-level abstractions are often used to specify requests.  Here's an example taken from some real-world code:
 
@@ -234,7 +234,7 @@ Request(
 
 As you read the code, first you see that a Request is being initialized.  In that context, you see a number of declarations about the request, that it uses the GET verb and so on.  The elision of commas allows you to focus on what's important, the declarations that make up the definition of the `Request`.  You are not constantly reminded that each line is an argument passed to an initializer but are instead free to think of each as a declaration in the language in which HTTP requests are specified.
 
-### App Routing EDSL case study: Jason Prasad's Routing library
+#### App Routing EDSL case study: Jason Prasad's Routing library
 
 The [routing](https://github.com/jjgp/Routing) library provides a convenient API for specifying which screen of an app should be displayed when the app is launched via a URL.  Here's an example usage taken from the project's README:
 
@@ -262,7 +262,7 @@ router.map(
 
 Without the commas, and with newlines added to the storyboard example, the code looks much cleaner.  Moreover, while in Swift an instance of the `ControllerSource` enum is being instantiated via the `.storyboard` implicit member access, in this code snippet, you are free to ignore those mechanics and focus instead on the declaration of a location from which to obtain a view controller in a storyboard named "Main" under the identifier "LoginViewController".
 
-## Improving the editing experience
+### Improving the editing experience
 
 Another, more minor point is that commas in these positions cause problems when editing code.  In Swift today, you can easily add or remove any item--even the last--from a collection literal by commenting it in or out:
 

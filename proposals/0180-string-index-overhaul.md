@@ -139,7 +139,7 @@ let end = String.Index(encodedOffset: n)
 assert(end == String.endIndex)
 ```
 
-# Comparison and Subscript Semantics
+## Comparison and Subscript Semantics
 
 When two indices being compared correspond to positions that are valid
 in any single `String` view, comparison semantics are already fully

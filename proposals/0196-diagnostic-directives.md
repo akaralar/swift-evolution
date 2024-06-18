@@ -149,7 +149,7 @@ to this proposal, and both could be addressed in future proposals.
 
 -------------------------------------------------------------------------------
 
-# Rationale
+## Rationale
 
 On February 1, 2018 the Core Team decided to **accept** this proposal with
 slight revision over the [original proposal](https://github.com/swiftlang/swift-evolution/blob/ab0c22a2340be9bfcb82e6f237752b4d959a93b7/proposals/0196-diagnostic-directives.md).

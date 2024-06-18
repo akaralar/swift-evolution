@@ -6,15 +6,15 @@
 * Status: **Returned for revision**
 * Implementation: [apple/swift-package-manager#3514](https://github.com/apple/swift-package-manager/pull/3514)
 * Discussion:
-  [Pitch](https://forums.swift.org/t/pitch-new-command-for-package-creation-and-package-templates/47874/18), 
+  [Pitch](https://forums.swift.org/t/pitch-new-command-for-package-creation-and-package-templates/47874/18),
   [Review](https://forums.swift.org/t/se-0318-package-creation/)
 
-# Introduction
+## Introduction
 
-In order to clearly separate the roles of transforming an existing directory of source files into a Swift package, from creating a new package from scratch we propose adding a new command `swift package create`. `swift package init` will continue to exist as is, but will be updated to focus on the former, while the new `swift package create` will focus on the latter. 
+In order to clearly separate the roles of transforming an existing directory of source files into a Swift package, from creating a new package from scratch we propose adding a new command `swift package create`. `swift package init` will continue to exist as is, but will be updated to focus on the former, while the new `swift package create` will focus on the latter.
 
 
-# Motivation
+## Motivation
 
 Currently `swift package init` handle two distinct use cases:
 
@@ -26,9 +26,9 @@ This one-size-fits-all approach can be confusing and counter-productive, especia
 We feel that separating the two concerns into separate commands, will allow SwiftPM to have better default behavior which is more aligned with the users expectations.
 
 
-## Current Behavior
+### Current Behavior
 
-### Creating new package 
+#### Creating new package
 
 To create a new package users perform the following steps:
 
@@ -60,7 +60,7 @@ By default, `swift package init` will use the directory name to define the packa
 By default, `swift package init` will set the package type to a library , which can be changed by using the `—type` option.
 
 
-### Transforming an existing directory of sources into a package 
+#### Transforming an existing directory of sources into a package
 
 To transform an existing directory of sources into a package using `swift package init` users perform the following steps:
 
@@ -91,14 +91,14 @@ By default, `swift package init` will use the directory name to define the packa
 By default, `swift package init` will set the package type to a library , which can be changed by using the `—type` option.
 
 
-## Problem Definition
+### Problem Definition
 
 `swift package init` is a utility to get started quickly, and is especially important to new users. The current behavior as described above can often achieve the opposite given its ambiguity and reliance on prior knowledge. Specifically, the default behavior of `swift package init` is geared towards transforming existing source directory to packages, while most new users are interested in creating new programs from scratch so they can experiment with the language. 
 
 A secondary issue is that `swift package init` uses a directory structure template which cannot be customized by the users. Given that SwiftPM is fairly flexible about the package’s directory structure, allowing users to define their own directory structure templates could be a good improvement for those that prefer a different default directory structure.
 
 
-# Proposed Solution
+## Proposed Solution
 
 The identified problems could be solved by the introduction of a new command `swift package create`. This new command would live alongside of `swift package init.`
 
@@ -109,9 +109,9 @@ The identified problems could be solved by the introduction of a new command `sw
 Both commands will gain the capability to use a templating system such that the directory structure used is customizable by the end user.
 
 
-# Detailed Design
+## Detailed Design
 
-## New command: `swift package create`
+### New command: `swift package create`
 
 Following, is the behavior of the new command:
 
@@ -142,7 +142,7 @@ Hello, world!
 ```
 
 
-### Customizing the package type
+#### Customizing the package type
 
 The `--type` option is used to customize the type of package created. Available options include: `library`, `system-module`, or `executable`. For example
 
@@ -178,7 +178,7 @@ Will create a library package with the the following directory structure
 ```
 
 
-## User defined templates
+### User defined templates
 
 By default, `swift package create` and `swift package init` uses the following directory structure:
 
@@ -297,7 +297,7 @@ This is the HelloWorld package!
 
 When running `swift package init` with the `--name` option omitted, the name of the target directory will be used as the package name.
 
-### Substitutions
+#### Substitutions
 
 While transforming the template directory into a package, SwiftPM performs string substitutions on all text files, using the following metadata fields:
 
@@ -307,12 +307,12 @@ While transforming the template directory into a package, SwiftPM performs strin
 Future iterations of this feature will include additional metadata fields that can be used in this context.
 
 
-### Defining the default template
+#### Defining the default template
 
 To customize the default template (i.e. when `swift package create` or `swift package init` is invoked without the explicit `--template `argument), users may define a template named “default”, i.e. `~/.swiftpm/configuration/templates/new-package/default`
 
 
-### Adding and updating templates
+#### Adding and updating templates
 
 Templates are designed to be shared as git repositories. The following commands will be added to SwiftPM to facilitate adding and updating templates:
 
@@ -325,7 +325,7 @@ Performs `git clone` of the provided URL into  `~/.swiftpm/configuration/templat
 Performs a `git update` on the template found at  `~/.swiftpm/configuration/templates/new-package/<name>`.
 
 
-## Impact on SwiftPM
+### Impact on SwiftPM
 
 When processing `swift package create` or `swift package init`, SwiftPM will do the following
 
@@ -335,7 +335,7 @@ When processing `swift package create` or `swift package init`, SwiftPM will do 
     2. If no default template is defined, construct a default `PackageTemplate` based on the `--type` option when provided, or the default type when such is not.
 
 
-## Changes to `swift package init`
+### Changes to `swift package init`
 
 `swift package init` will be slightly updated to reflect it’s focus on transforming existing source directories to packages:
 
@@ -344,22 +344,22 @@ When processing `swift package create` or `swift package init`, SwiftPM will do 
 3. `swift package init` will accept the new `--template` option and apply it as described above.
 
 
-# Security
+## Security
 
 No impact.
 
 
-# Impact on existing packages
+## Impact on existing packages
 
 No impact.
 
 
-# Alternatives considered
+## Alternatives considered
 
 The main alternative is to modify the behavior of `swift package init` such that it better caters to the creation of new packages from scratch. The advantage of this alternative is that it maintains the  API surface area. The disadvantages are that any changes to make it better for package creation are likely to make it confusing for transforming existing sources to package. More importantly, changes to the existing command may cause impact on users that have automation tied to the current behavior. 
 
 For templates, the main alternative is to use a data file (e.g. JSON) that describes how the package should be constructed. This would hone in the implementation as it defines a finite set of capabilities driven by configuration. This was not selected in order to provide a better user experience, and greater flexibility with respect to including other files in a template.
 
-# Future Iterations
+## Future Iterations
 
 In order to provide greater flexibility than what copying a Swift package directory can provide, a future version of SwiftPM could allow packages to be created in a procedural manner. SwiftPM could introduce new APIs that provide a toolbox of functionality for creating and configuration various aspects of packages, and could invoke Swift scripts that create new packages using those APIs. Such scripts could make decisions about what content to create based on input options or other external conditions. These APIs would also function when creating a Swift package from scratch, and or transforming existing sources into a Swift Package.

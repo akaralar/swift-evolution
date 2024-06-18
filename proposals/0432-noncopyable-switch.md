@@ -1,4 +1,4 @@
-# Borrowing and consuming pattern matching for noncopyable types
+# SE-0432 - Borrowing and consuming pattern matching for noncopyable types
 
 * Proposal: [SE-0432](0432-noncopyable-switch.md)
 * Authors: [Joe Groff](https://github.com/jckarter)

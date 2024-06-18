@@ -1,4 +1,4 @@
-# Concurrency Interoperability with Objective-C
+# SE-0297 - Concurrency Interoperability with Objective-C
 
 * Proposal: [SE-0297](0297-concurrency-objc.md)
 * Author: [Doug Gregor](https://github.com/DougGregor)

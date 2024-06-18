@@ -1,4 +1,4 @@
-# Module Aliasing For Disambiguation
+# SE-0339 - Module Aliasing For Disambiguation
 
 * Proposal: [SE-0339](0339-module-aliasing-for-disambiguation.md)
 * Authors: [Ellie Shin](https://github.com/elsh)

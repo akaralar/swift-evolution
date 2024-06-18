@@ -1,4 +1,4 @@
-# Conform `Never` to `Equatable` and `Hashable`
+# SE-0215 - Conform `Never` to `Equatable` and `Hashable`
 
 * Proposal: [SE-0215](0215-conform-never-to-hashable-and-equatable.md)
 * Author: [Matt Diephouse](https://github.com/mdiep)

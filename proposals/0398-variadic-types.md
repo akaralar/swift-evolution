@@ -1,4 +1,4 @@
-# Allow Generic Types to Abstract Over Packs
+# SE-0398 - Allow Generic Types to Abstract Over Packs
 
 * Proposal: [SE-0398](0398-variadic-types.md)
 * Authors: [Slava Pestov](https://github.com/slavapestov), [Holly Borla](https://github.com/hborla)

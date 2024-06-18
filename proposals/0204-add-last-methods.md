@@ -1,4 +1,4 @@
-# Add `last(where:)` and `lastIndex(where:)` Methods
+# SE-0204 - Add `last(where:)` and `lastIndex(where:)` Methods
 
 * Proposal: [SE-0204](0204-add-last-methods.md)
 * Author: [Nate Cook](https://github.com/natecook1000)

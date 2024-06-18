@@ -1,4 +1,4 @@
-# Enhanced Floating Point Protocols
+# SE-0067 - Enhanced Floating Point Protocols
 
 * Proposal: [SE-0067](0067-floating-point-protocols.md)
 * Author: [Stephen Canon](https://github.com/stephentyrone)

@@ -1,4 +1,4 @@
-# Remove `NonObjectiveCBase` and `isUniquelyReferenced`
+# SE-0125 - Remove `NonObjectiveCBase` and `isUniquelyReferenced`
 
 * Proposal: [SE-0125](0125-remove-nonobjectivecbase.md)
 * Author: [Arnold Schwaighofer](https://github.com/aschwaighofer)

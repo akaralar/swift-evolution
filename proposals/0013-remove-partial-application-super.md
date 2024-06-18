@@ -1,4 +1,4 @@
-# Remove Partial Application of Non-Final Super Methods (Swift 2.2)
+# SE-0013 - Remove Partial Application of Non-Final Super Methods (Swift 2.2)
 
 * Proposal: [SE-0013](0013-remove-partial-application-super.md)
 * Author: [Ashley Garland](https://github.com/bitjammer)

@@ -1,4 +1,4 @@
-# Regex Syntax and Run-time Construction
+# SE-0355 - Regex Syntax and Run-time Construction
 
 * Proposal: [SE-0355](0355-regex-syntax-run-time-construction.md)
 * Authors: [Hamish Knight](https://github.com/hamishknight), [Michael Ilseman](https://github.com/milseman)

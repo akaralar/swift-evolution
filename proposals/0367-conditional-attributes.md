@@ -1,4 +1,4 @@
-# Conditional compilation for attributes
+# SE-0367 - Conditional compilation for attributes
 
 * Proposal: [SE-0367](0367-conditional-attributes.md)
 * Authors: [Doug Gregor](https://github.com/DougGregor)

@@ -1,4 +1,4 @@
-# Class and Subtype existentials
+# SE-0156 - Class and Subtype existentials
 
 * Proposal: [SE-0156](0156-subclass-existentials.md)
 * Authors: [David Hart](https://github.com/hartbit), [Austin Zheng](https://github.com/austinzheng)

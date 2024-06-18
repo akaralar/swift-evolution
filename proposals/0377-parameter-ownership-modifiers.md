@@ -1,4 +1,4 @@
-# `borrowing` and `consuming` parameter ownership modifiers
+# SE-0377 - `borrowing` and `consuming` parameter ownership modifiers
 
 * Proposal: [SE-0377](0377-parameter-ownership-modifiers.md)
 * Authors: [Michael Gottesman](https://github.com/gottesmm), [Joe Groff](https://github.com/jckarter)

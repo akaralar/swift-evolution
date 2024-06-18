@@ -1,4 +1,4 @@
-# Swift Archival & Serialization
+# SE-0166 - Swift Archival & Serialization
 
 * Proposal: [SE-0166](0166-swift-archival-serialization.md)
 * Authors: [Itai Ferber](https://github.com/itaiferber), [Michael LeHew](https://github.com/mlehew), [Tony Parker](https://github.com/parkera)

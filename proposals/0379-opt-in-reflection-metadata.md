@@ -1,4 +1,4 @@
-# Swift Opt-In Reflection Metadata
+# SE-0379 - Swift Opt-In Reflection Metadata
 
 * Proposal: [SE-0379](0379-opt-in-reflection-metadata.md)
 * Authors: [Max Ovtsin](https://github.com/maxovtsin)

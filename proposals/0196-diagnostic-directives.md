@@ -1,4 +1,4 @@
-# Compiler Diagnostic Directives
+# SE-0196 - Compiler Diagnostic Directives
 
 * Proposal: [SE-0196](0196-diagnostic-directives.md)
 * Author: [Harlan Haskins](https://github.com/harlanhaskins)

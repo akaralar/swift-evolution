@@ -1,4 +1,4 @@
-# Defaulting non-Void functions so they warn on unused results
+# SE-0047 - Defaulting non-Void functions so they warn on unused results
 
 * Proposal: [SE-0047](0047-nonvoid-warn.md)
 * Authors: [Erica Sadun](https://github.com/erica), [Adrian Kashivskyy](https://github.com/akashivskyy)

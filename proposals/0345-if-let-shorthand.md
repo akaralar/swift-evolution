@@ -1,4 +1,4 @@
-# `if let` shorthand for shadowing an existing optional variable 
+# SE-0345 - `if let` shorthand for shadowing an existing optional variable
 
 * Proposal: [SE-0345](0345-if-let-shorthand.md)
 * Author: [Cal Stephens](https://github.com/calda)

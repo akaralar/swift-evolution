@@ -1,4 +1,4 @@
-# Swift Code Style Guidelines and Formatter
+# SE-0250 - Swift Code Style Guidelines and Formatter
 
 * Proposal: [SE-0250](0250-swift-style-guide-and-formatter.md)
 * Authors: [Tony Allevato](https://github.com/allevato), [Dave Abrahams](https://github.com/dabrahams)

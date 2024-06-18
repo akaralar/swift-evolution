@@ -1,4 +1,4 @@
-# Enforce Exclusive Access to Memory
+# SE-0176 - Enforce Exclusive Access to Memory
 
 * Proposal: [SE-0176](0176-enforce-exclusive-access-to-memory.md)
 * Author: [John McCall](https://github.com/rjmccall)

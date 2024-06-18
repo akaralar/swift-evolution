@@ -1,4 +1,4 @@
-# Concise magic file names
+# SE-0274 - Concise magic file names
 
 * Proposal: [SE-0274](0274-magic-file.md)
 * Authors: [Becca Royal-Gordon](https://github.com/beccadax), [Dave DeLong](https://github.com/davedelong)

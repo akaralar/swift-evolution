@@ -1,4 +1,4 @@
-# Support 'less than' operator in compilation conditions
+# SE-0224 - Support 'less than' operator in compilation conditions
 
 * Proposal: [SE-0224](0224-ifswift-lessthan-operator.md)
 * Authors: [Daniel Martín](https://github.com/danielmartin)

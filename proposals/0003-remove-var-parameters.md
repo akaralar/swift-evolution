@@ -1,4 +1,4 @@
-# Removing `var` from Function Parameters
+# SE-0003 - Removing `var` from Function Parameters
 
 * Proposal: [SE-0003](0003-remove-var-parameters.md)
 * Author: [Ashley Garland](https://github.com/bitjammer)

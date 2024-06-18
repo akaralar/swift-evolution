@@ -1,4 +1,4 @@
-# Conform `Never` to `Codable`
+# SE-0396 - Conform `Never` to `Codable`
  
 * Proposal: [SE-0396](0396-never-codable.md)
 * Author: [Nate Cook](https://github.com/natecook1000)

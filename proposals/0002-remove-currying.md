@@ -1,4 +1,4 @@
-# Removing currying `func` declaration syntax
+# SE-0002 - Removing currying `func` declaration syntax
 
 * Proposal: [SE-0002](0002-remove-currying.md)
 * Author: [Joe Groff](https://github.com/jckarter)

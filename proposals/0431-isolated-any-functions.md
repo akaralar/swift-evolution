@@ -1,4 +1,4 @@
-# `@isolated(any)` Function Types
+# SE-0431 - `@isolated(any)` Function Types
 
 * Proposal: [SE-0431](0431-isolated-any-functions.md)
 * Authors: [John McCall](https://github.com/rjmccall)

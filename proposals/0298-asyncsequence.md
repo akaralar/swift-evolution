@@ -1,4 +1,4 @@
-# Async/Await: Sequences
+# SE-0298 - Async/Await: Sequences
 
 * Proposal: [SE-0298](0298-asyncsequence.md)
 * Authors: [Tony Parker](https://github.com/parkera), [Philippe Hausler](https://github.com/phausler)

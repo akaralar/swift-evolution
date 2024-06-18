@@ -1,4 +1,4 @@
-# Enable multi-statement closure parameter/result type inference
+# SE-0326 - Enable multi-statement closure parameter/result type inference
 
 * Proposal: [SE-0326](0326-extending-multi-statement-closure-inference.md)
 * Author: [Pavel Yaskevich](https://github.com/xedin)

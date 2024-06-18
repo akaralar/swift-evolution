@@ -1,4 +1,4 @@
-# `buildPartialBlock` for result builders
+# SE-0348 - `buildPartialBlock` for result builders
 
 * Proposal: [SE-0348](0348-buildpartialblock.md)
 * Author: [Richard Wei](https://github.com/rxwei)

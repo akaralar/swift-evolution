@@ -1,4 +1,4 @@
-# Add sequence(first:next:) and sequence(state:next:) to the stdlib
+# SE-0094 - Add sequence(first:next:) and sequence(state:next:) to the stdlib
 
 * Proposal: [SE-0094](0094-sequence-function.md)
 * Authors: [Lily Ballard](https://github.com/lilyball), [Erica Sadun](https://github.com/erica)

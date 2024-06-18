@@ -1,4 +1,4 @@
-# Flatten nested optionals resulting from 'try?'
+# SE-0230 - Flatten nested optionals resulting from 'try?'
 
 * Proposal: [SE-0230](0230-flatten-optional-try.md)
 * Author: [BJ Homer](https://github.com/bjhomer)

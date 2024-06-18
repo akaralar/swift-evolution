@@ -1,4 +1,4 @@
-# One-sided Ranges
+# SE-0172 - One-sided Ranges
 
 * Proposal: [SE-0172](0172-one-sided-ranges.md)
 * Authors: [Ben Cohen](https://github.com/airspeedswift), [Dave Abrahams](https://github.com/dabrahams), [Becca Royal-Gordon](https://github.com/beccadax)

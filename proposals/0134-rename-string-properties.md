@@ -1,4 +1,4 @@
-# Rename two UTF8-related properties on String
+# SE-0134 - Rename two UTF8-related properties on String
 
 * Proposal: [SE-0134](0134-rename-string-properties.md)
 * Authors: [Xiaodi Wu](https://github.com/xwu), [Erica Sadun](https://github.com/erica)

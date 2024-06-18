@@ -1,4 +1,4 @@
-# Task Executor Preference
+# SE-0417 - Task Executor Preference
 
 * Proposal: [SE-0417](0417-task-executor-preference.md)
 * Author: [Konrad 'ktoso' Malawski](https://github.com/ktoso), [John McCall](https://github.com/rjmccall), [Franz Busch](https://github.com/FranzBusch)

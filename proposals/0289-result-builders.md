@@ -1,4 +1,4 @@
-# Result builders
+# SE-0289 - Result builders
 
 * Proposal: [SE-0289](0289-result-builders.md)
 * Authors: [John McCall](https://github.com/rjmccall), [Doug Gregor](https://github.com/DougGregor)

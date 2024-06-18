@@ -1,4 +1,4 @@
-# `async let` bindings
+# SE-0317 - `async let` bindings
 
 * Proposal: [SE-0317](0317-async-let.md)
 * Authors: [John McCall](https://github.com/rjmccall), [Joe Groff](https://github.com/jckarter), [Doug Gregor](https://github.com/DougGregor), [Konrad 'ktoso' Malawski](https://github.com/ktoso)

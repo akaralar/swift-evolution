@@ -1,4 +1,4 @@
-# Failable Numeric Conversion Initializers
+# SE-0080 - Failable Numeric Conversion Initializers
 
 * Proposal: [SE-0080](0080-failable-numeric-initializers.md)
 * Author: [Matthew Johnson](https://github.com/anandabits)

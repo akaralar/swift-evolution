@@ -1,4 +1,4 @@
-# Remove the `++` and `--` operators
+# SE-0004 - Remove the `++` and `--` operators
 
 * Proposal: [SE-0004](0004-remove-pre-post-inc-decrement.md)
 * Author: [Chris Lattner](https://github.com/lattner)

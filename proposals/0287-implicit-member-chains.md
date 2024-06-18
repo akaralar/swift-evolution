@@ -1,4 +1,4 @@
-# Extend implicit member syntax to cover chains of member references
+# SE-0287 - Extend implicit member syntax to cover chains of member references
 
 * Proposal: [SE-0287](0287-implicit-member-chains.md)
 * Author: [Frederick Kellison-Linn](https://github.com/jumhyn)

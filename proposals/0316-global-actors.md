@@ -1,4 +1,4 @@
-# Global actors
+# SE-0316 - Global actors
 
 * Proposal: [SE-0316](0316-global-actors.md)
 * Authors: [John McCall](https://github.com/rjmccall), [Doug Gregor](https://github.com/DougGregor)

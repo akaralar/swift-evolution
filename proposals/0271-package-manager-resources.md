@@ -1,4 +1,4 @@
-# Package Manager Resources
+# SE-0271 - Package Manager Resources
 
 * Proposal: [SE-0271](0271-package-manager-resources.md)
 * Authors: [Anders Bertelrud](https://github.com/abertelrud), [Ankit Aggarwal](https://github.com/aciidb0mb3r)

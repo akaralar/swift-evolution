@@ -1,4 +1,4 @@
-# Forward-scan matching for trailing closures
+# SE-0286 - Forward-scan matching for trailing closures
 
 * Proposal: [SE-0286](0286-forward-scan-trailing-closures.md)
 * Author: [Doug Gregor](https://github.com/DougGregor)

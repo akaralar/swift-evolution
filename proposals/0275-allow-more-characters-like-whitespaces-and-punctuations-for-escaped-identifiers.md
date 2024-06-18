@@ -1,4 +1,4 @@
-# Allow more characters (like whitespaces and punctuations) for escaped identifiers
+# SE-0275 - Allow more characters (like whitespaces and punctuations) for escaped identifiers
 
 * Proposal: [SE-0275](0275-allow-more-characters-like-whitespaces-and-punctuations-for-escaped-identifiers.md)
 * Author: [Alfredo Delli Bovi](https://github.com/adellibovi)

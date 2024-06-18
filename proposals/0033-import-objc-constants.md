@@ -1,4 +1,4 @@
-# Import Objective-C Constants as Swift Types
+# SE-0033 - Import Objective-C Constants as Swift Types
 
 * Proposal: [SE-0033](0033-import-objc-constants.md)
 * Author: [Jeff Kelley](https://github.com/SlaunchaMan)

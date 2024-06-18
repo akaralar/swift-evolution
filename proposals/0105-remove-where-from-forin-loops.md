@@ -1,4 +1,4 @@
-# Removing Where Clauses from For-In Loops
+# SE-0105 - Removing Where Clauses from For-In Loops
 
 * Proposal: [SE-0105](0105-remove-where-from-forin-loops.md)
 * Author: [Erica Sadun](https://github.com/erica)

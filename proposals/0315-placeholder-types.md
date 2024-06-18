@@ -1,4 +1,4 @@
-# Type placeholders (formerly, "Placeholder types")
+# SE-0315 - Type placeholders (formerly, "Placeholder types")
 
 * Proposal: [SE-0315](0315-placeholder-types.md)
 * Authors: [Frederick Kellison-Linn](https://github.com/jumhyn)

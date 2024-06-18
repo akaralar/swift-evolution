@@ -1,4 +1,4 @@
-# SwiftPM System Module Search Paths
+# SE-0063 - SwiftPM System Module Search Paths
 
 * Proposal: [SE-0063](0063-swiftpm-system-module-search-paths.md)
 * Author: [Max Howell](https://github.com/mxcl)

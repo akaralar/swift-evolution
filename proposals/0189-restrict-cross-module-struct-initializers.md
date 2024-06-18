@@ -1,4 +1,4 @@
-# Restrict Cross-module Struct Initializers
+# SE-0189 - Restrict Cross-module Struct Initializers
 
 * Proposal: [SE-0189](0189-restrict-cross-module-struct-initializers.md)
 * Author: [Jordan Rose](https://github.com/jrose-apple)

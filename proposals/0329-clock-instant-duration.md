@@ -1,4 +1,4 @@
-# Clock, Instant, and Duration
+# SE-0329 - Clock, Instant, and Duration
 
 * Proposal: [SE-0329](0329-clock-instant-duration.md)
 * Author: [Philippe Hausler](https://github.com/phausler)

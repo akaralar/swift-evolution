@@ -1,4 +1,4 @@
-# Package Manager Localized Resources
+# SE-0278 - Package Manager Localized Resources
 
 * Proposal: [SE-0278](0278-package-manager-localized-resources.md)
 * Author: [David Hart](https://github.com/hartbit)

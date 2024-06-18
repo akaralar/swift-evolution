@@ -1,4 +1,4 @@
-# Remove implicit tuple splat behavior from function applications
+# SE-0029 - Remove implicit tuple splat behavior from function applications
 
 * Proposal: [SE-0029](0029-remove-implicit-tuple-splat.md)
 * Author: [Chris Lattner](https://github.com/lattner)

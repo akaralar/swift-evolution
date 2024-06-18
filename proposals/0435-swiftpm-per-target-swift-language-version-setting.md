@@ -1,4 +1,4 @@
-# Swift Language Version Per Target
+# SE-0435 - Swift Language Version Per Target
 
 * Proposal: [SE-0435](0435-swiftpm-per-target-swift-language-version-setting.md)
 * Authors: [Pavel Yaskevich](https://github.com/xedin)

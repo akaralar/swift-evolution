@@ -1,4 +1,4 @@
-# Converting `dynamicType` from a property to an operator
+# SE-0096 - Converting `dynamicType` from a property to an operator
 
 * Proposal: [SE-0096](0096-dynamictype.md)
 * Author: [Erica Sadun](https://github.com/erica)

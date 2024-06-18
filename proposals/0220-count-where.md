@@ -1,4 +1,4 @@
-# `count(where:)`
+# SE-0220 - `count(where:)`
 
 * Proposal: [SE-0220](0220-count-where.md)
 * Author: [Soroush Khanlou](https://github.com/khanlou)

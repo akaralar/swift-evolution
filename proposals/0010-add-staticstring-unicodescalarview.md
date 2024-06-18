@@ -1,4 +1,4 @@
-# Add StaticString.UnicodeScalarView
+# SE-0010 - Add StaticString.UnicodeScalarView
 
 * Proposal: [SE-0010](0010-add-staticstring-unicodescalarview.md)
 * Author: [Lily Ballard](https://github.com/lilyball)

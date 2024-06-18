@@ -1,4 +1,4 @@
-# Objective-C implementations in Swift
+# SE-0436 - Objective-C implementations in Swift
 
 * Proposal: [SE-0436](0436-objc-implementation.md)
 * Authors: [Becca Royal-Gordon](https://github.com/beccadax)

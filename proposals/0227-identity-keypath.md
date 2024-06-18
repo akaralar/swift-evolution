@@ -1,4 +1,4 @@
-# Identity key path
+# SE-0227 - Identity key path
 
 * Proposal: [SE-0227](0227-identity-keypath.md)
 * Author: [Joe Groff](https://github.com/jckarter)

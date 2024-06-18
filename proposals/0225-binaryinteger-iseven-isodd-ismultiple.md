@@ -1,4 +1,4 @@
-# Adding `isMultiple` to `BinaryInteger`
+# SE-0225 - Adding `isMultiple` to `BinaryInteger`
 
 * Proposal: [SE-0225](0225-binaryinteger-iseven-isodd-ismultiple.md)
 * Authors: [Robert MacEachern](https://github.com/robmaceachern), [Micah Hansonbrook](https://github.com/SiliconUnicorn)

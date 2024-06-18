@@ -1,4 +1,4 @@
-# Clarify interaction between comments & operators
+# SE-0037 - Clarify interaction between comments & operators
 
 * Proposal: [SE-0037](0037-clarify-comments-and-operators.md)
 * Author: [Jesse Rusak](https://github.com/jder)

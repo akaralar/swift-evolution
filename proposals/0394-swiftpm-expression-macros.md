@@ -1,4 +1,4 @@
-# Package Manager Support for Custom Macros
+# SE-0394 - Package Manager Support for Custom Macros
 
 * Proposal: [SE-0394](0394-swiftpm-expression-macros.md)
 * Authors: [Boris Buegling](https://github.com/neonichu), [Doug Gregor](https://github.com/DougGregor)

@@ -1,4 +1,4 @@
-# Codable synthesis for enums with associated values
+# SE-0295 - Codable synthesis for enums with associated values
 
 * Proposal: [SE-0295](0295-codable-synthesis-for-enums-with-associated-values.md)
 * Authors: [Dario Rexin](https://github.com/drexin)

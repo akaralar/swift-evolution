@@ -1,4 +1,4 @@
-# Package Manager Command Plugins
+# SE-0332 - Package Manager Command Plugins
 
 * Proposal: [SE-0332](0332-swiftpm-command-plugins.md)
 * Author: [Anders Bertelrud](https://github.com/abertelrud)

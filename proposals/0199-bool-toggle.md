@@ -1,4 +1,4 @@
-# Adding `toggle` to `Bool`
+# SE-0199 - Adding `toggle` to `Bool`
 
 * Proposal: [SE-0199](0199-bool-toggle.md)
 * Author: [Chris Eidhof](https://github.com/chriseidhof)

@@ -1,4 +1,4 @@
-# Package Manager Version Pinning
+# SE-0145 - Package Manager Version Pinning
 
 * Proposal: [SE-0145](0145-package-manager-version-pinning.md)
 * Author: [Daniel Dunbar](https://github.com/ddunbar), [Ankit Aggarwal](https://github.com/aciidb0mb3r), [Graydon Hoare](https://github.com/graydon)

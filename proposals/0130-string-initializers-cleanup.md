@@ -1,4 +1,4 @@
-# Replace repeating `Character` and `UnicodeScalar` forms of String.init
+# SE-0130 - Replace repeating `Character` and `UnicodeScalar` forms of String.init
 
 * Proposal: [SE-0130](0130-string-initializers-cleanup.md)
 * Author: Roman Levenstein

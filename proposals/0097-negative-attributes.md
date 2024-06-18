@@ -1,4 +1,4 @@
-# Normalizing naming for "negative" attributes
+# SE-0097 - Normalizing naming for "negative" attributes
 
 * Proposal: [SE-0097](0097-negative-attributes.md)
 * Author: [Erica Sadun](https://github.com/erica)

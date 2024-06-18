@@ -1,4 +1,4 @@
-# Rename `flatten()` to `joined()`
+# SE-0133 - Rename `flatten()` to `joined()`
 
 * Proposal: [SE-0133](0133-rename-flatten-to-joined.md)
 * Author: [Jacob Bandes-Storch](https://github.com/jtbandes)

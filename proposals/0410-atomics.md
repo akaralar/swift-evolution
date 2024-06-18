@@ -1,4 +1,4 @@
-# Low-Level Atomic Operations ⚛︎
+# SE-0410 - Low-Level Atomic Operations ⚛︎
 
 * Proposal: [SE-0410](0410-atomics.md)
 * Author: [Karoy Lorentey](https://github.com/lorentey), [Alejandro Alonso](https://github.com/Azoy)

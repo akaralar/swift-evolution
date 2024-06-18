@@ -1,4 +1,4 @@
-# Function Back Deployment
+# SE-0376 - Function Back Deployment
 
 * Proposal: [SE-0376](0376-function-back-deployment.md)
 * Author: [Allan Shortlidge](https://github.com/tshortli)

@@ -1,4 +1,4 @@
-# Isolated synchronous deinit
+# SE-0371 - Isolated synchronous deinit
 
 * Proposal: [SE-0371](0371-isolated-synchronous-deinit.md)
 * Author: [Mykola Pokhylets](https://github.com/nickolas-pohilets)

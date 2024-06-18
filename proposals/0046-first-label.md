@@ -1,4 +1,4 @@
-# Establish consistent label behavior across all parameters including first labels
+# SE-0046 - Establish consistent label behavior across all parameters including first labels
 
 * Proposal: [SE-0046](0046-first-label.md)
 * Authors: [Jake Carter](https://github.com/JakeCarter), [Erica Sadun](https://github.com/erica)

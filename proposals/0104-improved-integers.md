@@ -1,4 +1,4 @@
-# Protocol-oriented integers
+# SE-0104 - Protocol-oriented integers
 
 * Proposal: [SE-0104](0104-improved-integers.md)
 * Authors: [Dave Abrahams](https://github.com/dabrahams), [Maxim Moiseev](https://github.com/moiseev)

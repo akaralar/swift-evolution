@@ -1,4 +1,4 @@
-# Package Manager Product Definitions
+# SE-0146 - Package Manager Product Definitions
 
 * Proposal: [SE-0146](0146-package-manager-product-definitions.md)
 * Author: [Anders Bertelrud](https://github.com/abertelrud)

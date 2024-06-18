@@ -1,4 +1,4 @@
-# Unavailability Condition
+# SE-0290 - Unavailability Condition
 
 * Proposal: [SE-0290](0290-negative-availability.md)
 * Author: [Bruno Rocha](https://github.com/rockbruno)

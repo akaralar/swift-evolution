@@ -1,4 +1,4 @@
-# Rename Sequence.elementsEqual
+# SE-0203 - Rename Sequence.elementsEqual
 
 * Proposal: [SE-0203](0203-rename-sequence-elements-equal.md)
 * Author: [Xiaodi Wu](https://github.com/xwu)

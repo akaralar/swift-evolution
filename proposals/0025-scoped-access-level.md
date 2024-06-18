@@ -1,4 +1,4 @@
-# Scoped Access Level
+# SE-0025 - Scoped Access Level
 
 * Proposal: [SE-0025](0025-scoped-access-level.md)
 * Author: Ilya Belenkiy

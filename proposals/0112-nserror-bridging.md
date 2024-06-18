@@ -1,4 +1,4 @@
-# Improved NSError Bridging
+# SE-0112 - Improved NSError Bridging
 
 * Proposal: [SE-0112](0112-nserror-bridging.md)
 * Authors: [Doug Gregor](https://github.com/DougGregor), [Charles Srstka](https://github.com/CharlesJS)

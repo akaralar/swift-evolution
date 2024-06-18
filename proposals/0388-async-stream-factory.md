@@ -1,4 +1,4 @@
-# Convenience Async[Throwing]Stream.makeStream methods
+# SE-0388 - Convenience Async[Throwing]Stream.makeStream methods
 
 * Proposal: [SE-0388](0388-async-stream-factory.md)
 * Authors: [Franz Busch](https://github.com/FranzBusch)

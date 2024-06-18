@@ -1,4 +1,4 @@
-# Revise `partition` Method Signature
+# SE-0120 - Revise `partition` Method Signature
 
 * Proposal: [SE-0120](0120-revise-partition-method.md)
 * Authors: [Lorenzo Racca](https://github.com/lorenzoracca), [Jeff Hajewski](https://github.com/j-haj), [Nate Cook](https://github.com/natecook1000)

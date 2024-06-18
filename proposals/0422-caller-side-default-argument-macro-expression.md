@@ -1,4 +1,4 @@
-# Expression macro as caller-side default argument
+# SE-0422 - Expression macro as caller-side default argument
 
 * Proposal: [SE-0422](0422-caller-side-default-argument-macro-expression.md)
 * Authors: [Apollo Zhu](https://github.com/ApolloZhu)

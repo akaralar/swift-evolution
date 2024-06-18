@@ -1,4 +1,4 @@
-# Package Collections
+# SE-0291 - Package Collections
 
 * Proposal: [SE-0291](0291-package-collections.md)
 * Authors: [Boris Bügling](https://github.com/neonichu), [Yim Lee](https://github.com/yim-lee), [Tom Doron](https://github.com/tomerd)

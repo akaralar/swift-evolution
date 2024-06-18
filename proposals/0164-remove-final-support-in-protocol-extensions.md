@@ -1,4 +1,4 @@
-# Remove final support in protocol extensions
+# SE-0164 - Remove final support in protocol extensions
 
 * Proposal: [SE-0164](0164-remove-final-support-in-protocol-extensions.md)
 * Author: [Brian King](https://github.com/KingOfBrian)

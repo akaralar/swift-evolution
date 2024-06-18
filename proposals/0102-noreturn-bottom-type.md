@@ -1,4 +1,4 @@
-# Remove `@noreturn` attribute and introduce an empty `Never` type
+# SE-0102 - Remove `@noreturn` attribute and introduce an empty `Never` type
 
 * Proposal: [SE-0102](0102-noreturn-bottom-type.md)
 * Author: [Joe Groff](https://github.com/jckarter)

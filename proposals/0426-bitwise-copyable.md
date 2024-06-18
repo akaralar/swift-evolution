@@ -1,4 +1,4 @@
-# BitwiseCopyable
+# SE-0426 - BitwiseCopyable
 
 * Proposal: [SE-0426](0426-bitwise-copyable.md)
 * Authors: [Kavon Farvardin](https://github.com/kavon), [Guillaume Lessard](https://github.com/glessard), [Nate Chandler](https://github.com/nate-chandler), [Tim Kientzle](https://github.com/tbkka)

@@ -1,4 +1,4 @@
-# Opening existential arguments to optional parameters
+# SE-0375 - Opening existential arguments to optional parameters
 
 * Proposal: [SE-0375](0375-opening-existential-optional.md)
 * Authors: [Doug Gregor](https://github.com/DougGregor)

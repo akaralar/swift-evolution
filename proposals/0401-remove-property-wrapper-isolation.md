@@ -1,4 +1,4 @@
-# Remove Actor Isolation Inference caused by Property Wrappers
+# SE-0401 - Remove Actor Isolation Inference caused by Property Wrappers
 
 * Proposal: [SE-0401](0401-remove-property-wrapper-isolation.md)
 * Authors: [BJ Homer](https://github.com/bjhomer)

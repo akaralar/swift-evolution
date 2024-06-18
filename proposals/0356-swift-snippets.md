@@ -1,4 +1,4 @@
-# Swift Snippets
+# SE-0356 - Swift Snippets
 
 * Proposal: [SE-0356](0356-swift-snippets.md)
 * Authors: [Ashley Garland](https://github.com/bitjammer)

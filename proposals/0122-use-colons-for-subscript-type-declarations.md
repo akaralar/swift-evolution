@@ -1,4 +1,4 @@
-# Use colons for subscript declarations
+# SE-0122 - Use colons for subscript declarations
 
 * Proposal: [SE-0122](0122-use-colons-for-subscript-type-declarations.md)
 * Author: [James Froggatt](https://github.com/MutatingFunk)

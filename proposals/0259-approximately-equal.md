@@ -1,4 +1,4 @@
-# Approximate Equality for Floating Point
+# SE-0259 - Approximate Equality for Floating Point
 
 * Proposal: [SE-0259](0259-approximately-equal.md)
 * Author: [Stephen Canon](https://github.com/stephentyrone)

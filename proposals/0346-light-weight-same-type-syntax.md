@@ -1,4 +1,4 @@
-# Lightweight same-type requirements for primary associated types
+# SE-0346 - Lightweight same-type requirements for primary associated types
 
 * Proposal: [SE-0346](0346-light-weight-same-type-syntax.md)
 * Authors: [Pavel Yaskevich](https://github.com/xedin), [Holly Borla](https://github.com/hborla), [Slava Pestov](https://github.com/slavapestov)

@@ -1,4 +1,4 @@
-# Generic Math(s) Functions
+# SE-0246 - Generic Math(s) Functions
 
 * Proposal: [SE-0246](0246-mathable.md)
 * Author: [Stephen Canon](https://github.com/stephentyrone)

@@ -1,4 +1,4 @@
-# Package Manager Conditional Target Dependencies
+# SE-0273 - Package Manager Conditional Target Dependencies
 
 * Proposal: [SE-0273](0273-swiftpm-conditional-target-dependencies.md)
 * Authors: [David Hart](https://github.com/hartbit)

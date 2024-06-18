@@ -1,4 +1,4 @@
-# Add Collection Operations on Noncontiguous Elements
+# SE-0270 - Add Collection Operations on Noncontiguous Elements
 
 * Proposal: [SE-0270](0270-rangeset-and-collection-operations.md)
 * Authors: [Nate Cook](https://github.com/natecook1000), [Jeremy Schonfeld](https://github.com/jmschonfeld)

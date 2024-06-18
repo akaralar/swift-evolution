@@ -1,4 +1,4 @@
-# Allow Protocols to be Nested in Non-Generic Contexts
+# SE-0404 - Allow Protocols to be Nested in Non-Generic Contexts
 
 * Proposal: [SE-0404](0404-nested-protocols.md)
 * Authors: [Karl Wagner](https://github.com/karwa)

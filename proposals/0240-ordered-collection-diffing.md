@@ -1,4 +1,4 @@
-# Ordered Collection Diffing
+# SE-0240 - Ordered Collection Diffing
 
 * Proposal: [SE-0240](0240-ordered-collection-diffing.md)
 * Authors: [Scott Perry](https://github.com/numist), [Kyle Macomber](https://github.com/kylemacomber)

@@ -1,4 +1,4 @@
-# Introduce `{Mutable}ContiguousCollection` protocol
+# SE-0256 - Introduce `{Mutable}ContiguousCollection` protocol
 
 * Proposal: [SE-0256](0256-contiguous-collection.md)
 * Authors: [Ben Cohen](https://github.com/airspeedswift)

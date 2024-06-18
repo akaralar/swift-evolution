@@ -1,4 +1,4 @@
-# Remove `Optional` Comparison Operators
+# SE-0121 - Remove `Optional` Comparison Operators
 
 * Proposal: [SE-0121](0121-remove-optional-comparison-operators.md)
 * Author: [Jacob Bandes-Storch](https://github.com/jtbandes)

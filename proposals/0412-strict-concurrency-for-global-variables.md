@@ -1,4 +1,4 @@
-# Strict concurrency for global variables
+# SE-0412 - Strict concurrency for global variables
 
 * Proposal: [SE-0412](0412-strict-concurrency-for-global-variables.md)
 * Authors: [John McCall](https://github.com/rjmccall), [Sophia Poirier](https://github.com/sophiapoirier)

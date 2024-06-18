@@ -1,4 +1,4 @@
-# Random Unification
+# SE-0202 - Random Unification
 
 * Proposal: [SE-0202](0202-random-unification.md)
 * Author: [Alejandro Alonso](https://github.com/Azoy)

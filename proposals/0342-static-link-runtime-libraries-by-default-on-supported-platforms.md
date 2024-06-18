@@ -1,4 +1,4 @@
-# Statically link Swift runtime libraries by default on supported platforms
+# SE-0342 - Statically link Swift runtime libraries by default on supported platforms
 
 * Proposal: [SE-0342](0342-static-link-runtime-libraries-by-default-on-supported-platforms.md)
 * Authors: [neonichu](https://github.com/neonichu) [tomerd](https://github.com/tomerd)

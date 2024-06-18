@@ -1,4 +1,4 @@
-# Regex Type and Overview
+# SE-0350 - Regex Type and Overview
 
 * Proposal: [SE-0350](0350-regex-type-overview.md)
 * Authors: [Michael Ilseman](https://github.com/milseman)

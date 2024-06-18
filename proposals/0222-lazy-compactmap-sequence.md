@@ -1,4 +1,4 @@
-# Lazy CompactMap Sequence
+# SE-0222 - Lazy CompactMap Sequence
 
 * Proposal: [SE-0222](0222-lazy-compactmap-sequence.md)
 * Authors: [TellowKrinkle](https://github.com/TellowKrinkle), [Johannes Weiß](https://github.com/weissi)

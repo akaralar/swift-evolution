@@ -1,4 +1,4 @@
-# Typed throws
+# SE-0413 - Typed throws
 
 * Proposal: [SE-0413](0413-typed-throws.md)
 * Authors: [Jorge Revuelta (@minuscorp)](https://github.com/minuscorp), [Torsten Lehmann](https://github.com/torstenlehmann), [Doug Gregor](https://github.com/DougGregor)

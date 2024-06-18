@@ -1,4 +1,4 @@
-# Make Standard Library Index Types Hashable
+# SE-0188 - Make Standard Library Index Types Hashable
 
 * Proposal: [SE-0188](0188-stdlib-index-types-hashable.md)
 * Author: [Nate Cook](https://github.com/natecook1000)

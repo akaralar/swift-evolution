@@ -1,4 +1,4 @@
-# Access-level modifiers on import declarations
+# SE-0409 - Access-level modifiers on import declarations
 
 * Proposal: [SE-0409](0409-access-level-on-imports.md)
 * Author: [Alexis Laferrière](https://github.com/xymus)

@@ -1,4 +1,4 @@
-# Incremental migration to concurrency checking
+# SE-0337 - Incremental migration to concurrency checking
 
 * Proposal: [SE-0337](0337-support-incremental-migration-to-concurrency-checking.md)
 * Authors: [Doug Gregor](https://github.com/DougGregor), [Becca Royal-Gordon](https://github.com/beccadax)

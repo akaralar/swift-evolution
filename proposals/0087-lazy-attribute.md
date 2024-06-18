@@ -1,4 +1,4 @@
-# Rename `lazy` to `@lazy`
+# SE-0087 - Rename `lazy` to `@lazy`
 
 * Proposal: [SE-0087](0087-lazy-attribute.md)
 * Author: [Anton3](https://github.com/Anton3)

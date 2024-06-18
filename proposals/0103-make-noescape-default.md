@@ -1,4 +1,4 @@
-# Make non-escaping closures the default
+# SE-0103 - Make non-escaping closures the default
 
 * Proposal: [SE-0103](0103-make-noescape-default.md)
 * Author: [Trent Nadeau](https://github.com/tanadeau)

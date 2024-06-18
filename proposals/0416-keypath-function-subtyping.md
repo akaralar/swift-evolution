@@ -1,4 +1,4 @@
-# Subtyping for keypath literals as functions
+# SE-0416 - Subtyping for keypath literals as functions
 
 * Proposal: [SE-0416](0416-keypath-function-subtyping.md)
 * Authors: [Frederick Kellison-Linn](https://github.com/jumhyn)

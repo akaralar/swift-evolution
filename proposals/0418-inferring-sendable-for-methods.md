@@ -1,4 +1,4 @@
-# Inferring `Sendable` for methods and key path literals
+# SE-0418 - Inferring `Sendable` for methods and key path literals
 
 * Proposal: [SE-0418](0418-inferring-sendable-for-methods.md)
 * Authors: [Angela Laar](https://github.com/angela-laar), [Kavon Farvardin](https://github.com/kavon), [Pavel Yaskevich](https://github.com/xedin)

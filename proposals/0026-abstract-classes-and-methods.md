@@ -1,4 +1,4 @@
-# Abstract classes and methods
+# SE-0026 - Abstract classes and methods
 
 * Proposal: [SE-0026](0026-abstract-classes-and-methods.md)
 * Author: David Scrève

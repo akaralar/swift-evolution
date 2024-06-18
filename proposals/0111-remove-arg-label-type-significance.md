@@ -1,4 +1,4 @@
-# Remove type system significance of function argument labels
+# SE-0111 - Remove type system significance of function argument labels
 
 * Proposal: [SE-0111](0111-remove-arg-label-type-significance.md)
 * Author: Austin Zheng

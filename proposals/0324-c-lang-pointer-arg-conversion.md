@@ -1,4 +1,4 @@
-# Relax diagnostics for pointer arguments to C functions
+# SE-0324 - Relax diagnostics for pointer arguments to C functions
 
 * Proposal: [SE-0324](0324-c-lang-pointer-arg-conversion.md)
 * Authors: [Andrew Trick](https://github.com/atrick), [Pavel Yaskevich](https://github.com/xedin)

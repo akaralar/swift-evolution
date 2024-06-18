@@ -1,4 +1,4 @@
-# Mutability and Foundation Value Types
+# SE-0069 - Mutability and Foundation Value Types
 
 * Proposal: [SE-0069](0069-swift-mutability-for-foundation.md)
 * Author: [Tony Parker](https://github.com/parkera)

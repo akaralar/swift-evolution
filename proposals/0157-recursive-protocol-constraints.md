@@ -1,4 +1,4 @@
-# Support recursive constraints on associated types
+# SE-0157 - Support recursive constraints on associated types
 
 * Proposal: [SE-0157](0157-recursive-protocol-constraints.md)
 * Authors: [Douglas Gregor](https://github.com/DougGregor), [Erica Sadun](https://github.com/erica), [Austin Zheng](https://github.com/austinzheng)

@@ -1,4 +1,4 @@
-# Requiring Leading Dot Prefixes for Enum Instance Member Implementations
+# SE-0036 - Requiring Leading Dot Prefixes for Enum Instance Member Implementations
 
 * Proposal: [SE-0036](0036-enum-dot.md)
 * Authors: [Erica Sadun](https://github.com/erica), [Chris Lattner](https://github.com/lattner)

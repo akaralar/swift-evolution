@@ -1,4 +1,4 @@
-# NSNumber bridging and Numeric types
+# SE-0170 - NSNumber bridging and Numeric types
 
 * Proposal: [SE-0170](0170-nsnumber_bridge.md)
 * Author: [Philippe Hausler](https://github.com/phausler)

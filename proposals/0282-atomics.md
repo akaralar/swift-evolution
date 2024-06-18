@@ -1,4 +1,4 @@
-# Clarify the Swift memory consistency model ⚛︎
+# SE-0282 - Clarify the Swift memory consistency model ⚛︎
 
 * Proposal: [SE-0282](0282-atomics.md)
 * Author: [Karoy Lorentey](https://github.com/lorentey)

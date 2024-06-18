@@ -1,4 +1,4 @@
-# Smart KeyPaths: Better Key-Value Coding for Swift
+# SE-0161 - Smart KeyPaths: Better Key-Value Coding for Swift
 
 * Proposal: [SE-0161](0161-key-paths.md)
 * Authors: [David Smith](https://github.com/Catfish-Man), [Michael LeHew](https://github.com/mlehew), [Joe Groff](https://github.com/jckarter)

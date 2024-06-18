@@ -1,4 +1,4 @@
-# Eliding commas from multiline expression lists
+# SE-0257 - Eliding commas from multiline expression lists
 
 * Proposal: [SE-0257](0257-elide-comma.md)
 * Author: [Nate Chandler](https://github.com/nate-chandler), [Matthew Johnson](https://github.com/anandabits)

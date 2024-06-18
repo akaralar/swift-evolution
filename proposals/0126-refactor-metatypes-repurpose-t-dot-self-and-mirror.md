@@ -1,4 +1,4 @@
-# Refactor Metatypes, repurpose `T.self` and `Mirror`
+# SE-0126 - Refactor Metatypes, repurpose `T.self` and `Mirror`
 
 * Proposal: [SE-0126](0126-refactor-metatypes-repurpose-t-dot-self-and-mirror.md)
 * Authors: [Adrian Zubarev](https://github.com/DevAndArtist), [Anton Zhilin](https://github.com/Anton3)

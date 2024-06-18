@@ -1,4 +1,4 @@
-# Swift Language Version Build Configuration
+# SE-0020 - Swift Language Version Build Configuration
 
 * Proposal: [SE-0020](0020-if-swift-version.md)
 * Author: [Ashley Garland](https://github.com/bitjammer)

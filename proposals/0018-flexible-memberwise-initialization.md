@@ -1,4 +1,4 @@
-# Flexible Memberwise Initialization
+# SE-0018 - Flexible Memberwise Initialization
 
 * Proposal: [SE-0018](0018-flexible-memberwise-initialization.md)
 * Author: [Matthew Johnson](https://github.com/anandabits)

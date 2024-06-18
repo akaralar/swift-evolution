@@ -1,4 +1,4 @@
-# Change IteratorType post-nil guarantee
+# SE-0052 - Change IteratorType post-nil guarantee
 
 * Proposal: [SE-0052](0052-iterator-post-nil-guarantee.md)
 * Author: [Patrick Pijnappel](https://github.com/PatrickPijnappel)

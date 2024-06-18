@@ -1,4 +1,4 @@
-# Package Manager Manifest API Redesign
+# SE-0158 - Package Manager Manifest API Redesign
 
 * Proposal: [SE-0158](0158-package-manager-manifest-api-redesign.md)
 * Author: [Ankit Aggarwal](https://github.com/aciidb0mb3r)

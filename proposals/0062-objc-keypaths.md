@@ -1,4 +1,4 @@
-# Referencing Objective-C key-paths
+# SE-0062 - Referencing Objective-C key-paths
 
 * Proposal: [SE-0062](0062-objc-keypaths.md)
 * Author: [David Hart](https://github.com/hartbit)

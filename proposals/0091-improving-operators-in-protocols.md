@@ -1,4 +1,4 @@
-# Improving operator requirements in protocols
+# SE-0091 - Improving operator requirements in protocols
 
 * Proposal: [SE-0091](0091-improving-operators-in-protocols.md)
 * Authors: [Tony Allevato](https://github.com/allevato), [Doug Gregor](https://github.com/DougGregor)

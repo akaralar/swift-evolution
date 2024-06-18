@@ -1,4 +1,4 @@
-# Improved operator declarations
+# SE-0077 - Improved operator declarations
 
 * Proposal: [SE-0077](0077-operator-precedence.md)
 * Author: [Anton Zhilin](https://github.com/Anton3)

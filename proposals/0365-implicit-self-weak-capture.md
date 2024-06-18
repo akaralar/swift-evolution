@@ -1,4 +1,4 @@
-# Allow implicit `self` for `weak self` captures, after `self` is unwrapped
+# SE-0365 - Allow implicit `self` for `weak self` captures, after `self` is unwrapped
 
 * Proposal: [SE-0365](0365-implicit-self-weak-capture.md)
 * Author: [Cal Stephens](https://github.com/calda)

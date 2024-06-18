@@ -1,4 +1,4 @@
-# Improve Interaction Between `private` Declarations and Extensions
+# SE-0169 - Improve Interaction Between `private` Declarations and Extensions
 
 * Proposal: [SE-0169](0169-improve-interaction-between-private-declarations-and-extensions.md)
 * Authors: [David Hart](https://github.com/hartbit), [Chris Lattner](https://github.com/lattner)

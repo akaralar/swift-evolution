@@ -1,4 +1,4 @@
-# Asynchronous Main Semantics
+# SE-0323 - Asynchronous Main Semantics
 
 * Proposal: [SE-0323](0323-async-main-semantics.md)
 * Author: [Evan Wilde](https://github.com/etcwilde)

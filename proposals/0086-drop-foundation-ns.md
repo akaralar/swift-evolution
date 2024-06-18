@@ -1,4 +1,4 @@
-# Drop NS Prefix in Swift Foundation
+# SE-0086 - Drop NS Prefix in Swift Foundation
 
 * Proposal: [SE-0086](0086-drop-foundation-ns.md)
 * Authors: [Tony Parker](https://github.com/parkera), [Philippe Hausler](https://github.com/phausler)

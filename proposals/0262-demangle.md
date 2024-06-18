@@ -1,4 +1,4 @@
-# Demangle Function
+# SE-0262 - Demangle Function
 
 * Proposal: [SE-0262](0262-demangle.md)
 * Author: [Alejandro Alonso](https://github.com/Azoy)

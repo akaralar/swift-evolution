@@ -1,4 +1,4 @@
-# Expand usability of `withMemoryRebound`
+# SE-0333 - Expand usability of `withMemoryRebound`
 
 * Proposal: [SE-0333](0333-with-memory-rebound.md)
 * Authors: [Guillaume Lessard](https://github.com/glessard), [Andrew Trick](https://github.com/atrick)

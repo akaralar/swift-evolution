@@ -1,4 +1,4 @@
-# Adjusting `inout` Declarations for Type Decoration
+# SE-0031 - Adjusting `inout` Declarations for Type Decoration
 
 * Proposal: [SE-0031](0031-adjusting-inout-declarations.md)
 * Authors: [Joe Groff](https://github.com/jckarter), [Erica Sadun](https://github.com/erica)

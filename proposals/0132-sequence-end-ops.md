@@ -1,4 +1,4 @@
-# Rationalizing Sequence end-operation names
+# SE-0132 - Rationalizing Sequence end-operation names
 
 * Proposal: [SE-0132](0132-sequence-end-ops.md)
 * Authors: [Becca Royal-Gordon](https://github.com/beccadax), [Dave Abrahams](https://github.com/dabrahams)

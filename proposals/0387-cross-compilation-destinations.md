@@ -1,4 +1,4 @@
-# Swift SDKs for Cross-Compilation
+# SE-0387 - Swift SDKs for Cross-Compilation
 
 * Proposal: [SE-0387](0387-cross-compilation-destinations.md)
 * Authors: [Max Desiatov](https://github.com/MaxDesiatov), [Saleem Abdulrasool](https://github.com/compnerd), [Evan Wilde](https://github.com/etcwilde)

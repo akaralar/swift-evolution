@@ -1,4 +1,4 @@
-# Import as member
+# SE-0044 - Import as member
 
 * Proposal: [SE-0044](0044-import-as-member.md)
 * Author: [Michael Ilseman](https://github.com/milseman)

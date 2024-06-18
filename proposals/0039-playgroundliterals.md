@@ -1,4 +1,4 @@
-# Modernizing Playground Literals
+# SE-0039 - Modernizing Playground Literals
 
 * Proposal: [SE-0039](0039-playgroundliterals.md)
 * Author: [Erica Sadun](https://github.com/erica)

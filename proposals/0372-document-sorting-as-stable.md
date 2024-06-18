@@ -1,4 +1,4 @@
-# Document Sorting as Stable
+# SE-0372 - Document Sorting as Stable
 
 * Proposal: [SE-0372](0372-document-sorting-as-stable.md)
 * Author: [Nate Cook](https://github.com/natecook1000)

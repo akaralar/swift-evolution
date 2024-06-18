@@ -1,4 +1,4 @@
-# Regex Literals
+# SE-0354 - Regex Literals
 
 * Proposal: [SE-0354](0354-regex-literals.md)
 * Authors: [Hamish Knight](https://github.com/hamishknight), [Michael Ilseman](https://github.com/milseman), [David Ewing](https://github.com/DaveEwing)

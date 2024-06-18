@@ -1,4 +1,4 @@
-# Allow trailing closures in `guard` conditions
+# SE-0056 - Allow trailing closures in `guard` conditions
 
 * Proposal: [SE-0056](0056-trailing-closures-in-guard.md)
 * Author: [Chris Lattner](https://github.com/lattner)

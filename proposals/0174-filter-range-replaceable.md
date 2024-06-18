@@ -1,4 +1,4 @@
-# Change `RangeReplaceableCollection.filter` to return `Self`
+# SE-0174 - Change `RangeReplaceableCollection.filter` to return `Self`
 
 * Proposal: [SE-0174](0174-filter-range-replaceable.md)
 * Author: [Ben Cohen](https://github.com/airspeedswift)

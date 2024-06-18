@@ -1,4 +1,4 @@
-# Distributed Actor Runtime
+# SE-0344 - Distributed Actor Runtime
 
 * Proposal: [SE-0344](0344-distributed-actor-runtime.md)
 * Authors: [Konrad 'ktoso' Malawski](https://github.com/ktoso), [Pavel Yaskevich](https://github.com/xedin), [Doug Gregor](https://github.com/DougGregor), [Kavon Farvardin](https://github.com/kavon), [Dario Rexin](https://github.com/drexin), [Tomer Doron](https://github.com/tomerd)

@@ -1,4 +1,4 @@
-# StaticBigInt
+# SE-0368 - StaticBigInt
 
 * Proposal: [SE-0368](0368-staticbigint.md)
 * Author: [Ben Rimmington](https://github.com/benrimmington)

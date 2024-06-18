@@ -1,4 +1,4 @@
-# A New Model for Collections and Indices
+# SE-0065 - A New Model for Collections and Indices
 
 * Proposal: [SE-0065](0065-collections-move-indices.md)
 * Authors: [Dmitri Gribenko](https://github.com/gribozavr), [Dave Abrahams](https://github.com/dabrahams), [Maxim Moiseev](https://github.com/moiseev)

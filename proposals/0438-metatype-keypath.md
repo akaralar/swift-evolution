@@ -1,4 +1,4 @@
-# Metatype Keypaths
+# SE-0438 - Metatype Keypaths
 
 * Proposal: [SE-0438](0438-metatype-keypath.md)
 * Authors: [Amritpan Kaur](https://github.com/amritpan), [Pavel Yaskevich](https://github.com/xedin)

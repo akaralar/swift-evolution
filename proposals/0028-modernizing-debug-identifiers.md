@@ -1,4 +1,4 @@
-# Modernizing Swift's Debugging Identifiers
+# SE-0028 - Modernizing Swift's Debugging Identifiers
 
 * Proposal: [SE-0028](0028-modernizing-debug-identifiers.md)
 * Author: [Erica Sadun](https://github.com/erica)

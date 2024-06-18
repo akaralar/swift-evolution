@@ -1,4 +1,4 @@
-# `AsyncStream` and `AsyncThrowingStream`
+# SE-0314 - `AsyncStream` and `AsyncThrowingStream`
 
 * Proposal: [SE-0314](0314-async-stream.md)
 * Authors: [Philippe Hausler](https://github.com/phausler), [Tony Parker](https://github.com/parkera), [Ben D. Jones](https://github.com/bendjones), [Nate Cook](https://github.com/natecook1000)

@@ -1,4 +1,4 @@
-# Updating Protocol Naming Conventions for Conversions
+# SE-0041 - Updating Protocol Naming Conventions for Conversions
 
 * Proposal: [SE-0041](0041-conversion-protocol-conventions.md)
 * Authors: [Matthew Johnson](https://github.com/anandabits), [Erica Sadun](https://github.com/erica)

@@ -1,4 +1,4 @@
-# `Sendable` and `@Sendable` closures
+# SE-0302 - `Sendable` and `@Sendable` closures
 
 * Proposal: [SE-0302](0302-concurrent-value-and-concurrent-closures.md)
 * Authors: [Chris Lattner](https://github.com/lattner), [Doug Gregor](https://github.com/douggregor)

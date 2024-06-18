@@ -1,4 +1,4 @@
-# Move UnsafeMutablePointer.initialize(from:) to UnsafeMutableBufferPointer
+# SE-0147 - Move UnsafeMutablePointer.initialize(from:) to UnsafeMutableBufferPointer
 
 * Proposal: [SE-0147](0147-move-unsafe-initialize-from.md)
 * Author: [Ben Cohen](https://github.com/airspeedswift)

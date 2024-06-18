@@ -1,4 +1,4 @@
-# Offset-Based Access to Indices, Elements, and Slices
+# SE-0265 - Offset-Based Access to Indices, Elements, and Slices
 
 * Proposal: [SE-0265](0265-offset-indexing-and-slicing.md)
 * Author: [Michael Ilseman](https://github.com/milseman)

@@ -1,4 +1,4 @@
-# Type inference from default expressions
+# SE-0347 - Type inference from default expressions
 
 * Proposal: [SE-0347](0347-type-inference-from-default-exprs.md)
 * Authors: [Pavel Yaskevich](https://github.com/xedin)

@@ -1,4 +1,4 @@
-# Async/await
+# SE-0296 - Async/await
 
 * Proposal: [SE-0296](0296-async-await.md)
 * Authors: [John McCall](https://github.com/rjmccall), [Doug Gregor](https://github.com/DougGregor)

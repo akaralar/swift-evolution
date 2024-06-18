@@ -1,4 +1,4 @@
-# Constraining `AnySequence.init`
+# SE-0014 - Constraining `AnySequence.init`
 
 * Proposal: [SE-0014](0014-constrained-AnySequence.md)
 * Author: [Max Moiseev](https://github.com/moiseev)

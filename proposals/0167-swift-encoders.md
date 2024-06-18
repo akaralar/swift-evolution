@@ -1,4 +1,4 @@
-# Swift Encoders
+# SE-0167 - Swift Encoders
 
 * Proposal: [SE-0167](0167-swift-encoders.md)
 * Authors: [Itai Ferber](https://github.com/itaiferber), [Michael LeHew](https://github.com/mlehew), [Tony Parker](https://github.com/parkera)

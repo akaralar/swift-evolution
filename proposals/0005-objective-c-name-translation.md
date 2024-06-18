@@ -1,4 +1,4 @@
-# Better Translation of Objective-C APIs Into Swift
+# SE-0005 - Better Translation of Objective-C APIs Into Swift
 
 * Proposal: [SE-0005](0005-objective-c-name-translation.md)
 * Authors: [Doug Gregor](https://github.com/DougGregor), [Dave Abrahams](https://github.com/dabrahams)

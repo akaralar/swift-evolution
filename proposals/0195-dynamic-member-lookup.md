@@ -1,4 +1,4 @@
-# Introduce User-defined "Dynamic Member Lookup" Types
+# SE-0195 - Introduce User-defined "Dynamic Member Lookup" Types
 
 * Proposal: [SE-0195](0195-dynamic-member-lookup.md)
 * Author: [Chris Lattner](https://github.com/lattner)

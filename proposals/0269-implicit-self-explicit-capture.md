@@ -1,4 +1,4 @@
-# Increase availability of implicit `self` in `@escaping` closures when reference cycles are unlikely to occur
+# SE-0269 - Increase availability of implicit `self` in `@escaping` closures when reference cycles are unlikely to occur
 
 * Proposal: [SE-0269](0269-implicit-self-explicit-capture.md)
 * Author: [Frederick Kellison-Linn](https://github.com/jumhyn)

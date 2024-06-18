@@ -1,4 +1,4 @@
-# Property Wrappers
+# SE-0258 - Property Wrappers
 
 * Proposal: [SE-0258](0258-property-wrappers.md)
 * Authors: [Doug Gregor](https://github.com/DougGregor), [Joe Groff](https://github.com/jckarter)

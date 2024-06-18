@@ -1,4 +1,4 @@
-# Introduce `compactMapValues` to Dictionary
+# SE-0218 - Introduce `compactMapValues` to Dictionary
 
 * Proposal: [SE-0218](0218-introduce-compact-map-values.md)
 * Author: [Daiki Matsudate](https://github.com/d-date)

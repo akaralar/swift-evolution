@@ -1,4 +1,4 @@
-# Allow interchangeable use of `CGFloat` and `Double` types
+# SE-0307 - Allow interchangeable use of `CGFloat` and `Double` types
 
 * Proposal: [SE-0307](0307-allow-interchangeable-use-of-double-cgfloat-types.md)
 * Author: [Pavel Yaskevich](https://github.com/xedin)

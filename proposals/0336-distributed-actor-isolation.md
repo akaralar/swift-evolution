@@ -1,4 +1,4 @@
-# Distributed Actor Isolation
+# SE-0336 - Distributed Actor Isolation
 
 * Proposal: [SE-0336](0336-distributed-actor-isolation.md)
 * Authors: [Konrad 'ktoso' Malawski](https://github.com/ktoso), [Pavel Yaskevich](https://github.com/xedin), [Doug Gregor](https://github.com/DougGregor), [Kavon Farvardin](https://github.com/kavon)

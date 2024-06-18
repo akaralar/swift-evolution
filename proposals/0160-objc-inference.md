@@ -1,4 +1,4 @@
-# Limiting `@objc` inference
+# SE-0160 - Limiting `@objc` inference
 
 * Proposal: [SE-0160](0160-objc-inference.md)
 * Author: [Doug Gregor](https://github.com/DougGregor)

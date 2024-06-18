@@ -1,4 +1,4 @@
-# `@main`: Type-Based Program Entry Points
+# SE-0281 - `@main`: Type-Based Program Entry Points
 
 * Proposal: [SE-0281](0281-main-attribute.md)
 * Authors: [Nate Cook](https://github.com/natecook1000), [Nate Chandler](https://github.com/nate-chandler), [Matt Ricketson](https://github.com/ricketson)

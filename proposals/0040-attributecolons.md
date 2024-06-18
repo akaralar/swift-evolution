@@ -1,4 +1,4 @@
-# Replacing Equal Signs with Colons For Attribute Arguments
+# SE-0040 - Replacing Equal Signs with Colons For Attribute Arguments
 
 * Proposal: [SE-0040](0040-attributecolons.md)
 * Author: [Erica Sadun](https://github.com/erica)

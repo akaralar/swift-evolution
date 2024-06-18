@@ -1,4 +1,4 @@
-# Synthesize default values for the memberwise initializer
+# SE-0242 - Synthesize default values for the memberwise initializer
 
 * Proposal: [SE-0242](0242-default-values-memberwise.md)
 * Author: [Alejandro Alonso](https://github.com/Azoy)

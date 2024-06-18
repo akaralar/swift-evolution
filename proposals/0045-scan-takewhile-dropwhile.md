@@ -1,4 +1,4 @@
-# Add prefix(while:) and drop(while:) to the stdlib
+# SE-0045 - Add prefix(while:) and drop(while:) to the stdlib
 
 * Proposal: [SE-0045](0045-scan-takewhile-dropwhile.md)
 * Author: [Lily Ballard](https://github.com/lilyball)

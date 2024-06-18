@@ -1,4 +1,4 @@
-# Replace `protocol<P1,P2>` syntax with `P1 & P2` syntax
+# SE-0095 - Replace `protocol<P1,P2>` syntax with `P1 & P2` syntax
 
 * Proposal: [SE-0095](0095-any-as-existential.md)
 * Authors: [Adrian Zubarev](https://github.com/DevAndArtist), [Austin Zheng](https://github.com/austinzheng)

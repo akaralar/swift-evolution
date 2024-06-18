@@ -1,4 +1,4 @@
-# Introduce Sequence.compactMap(_:)
+# SE-0187 - Introduce Sequence.compactMap(_:)
 
 * Proposal: [SE-0187](0187-introduce-filtermap.md)
 * Author: [Max Moiseev](https://github.com/moiseev)

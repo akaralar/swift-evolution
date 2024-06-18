@@ -1,4 +1,4 @@
-# Tuple comparison operators
+# SE-0015 - Tuple comparison operators
 
 * Proposal: [SE-0015](0015-tuple-comparison-operators.md)
 * Author: [Lily Ballard](https://github.com/lilyball)

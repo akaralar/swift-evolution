@@ -1,4 +1,4 @@
-# Package Manager Swift Language Compatibility Version
+# SE-0151 - Package Manager Swift Language Compatibility Version
 
 * Proposal: [SE-0151](0151-package-manager-swift-language-compatibility-version.md)
 * Authors: [Daniel Dunbar](https://github.com/ddunbar), [Rick Ballard](https://github.com/rballard)

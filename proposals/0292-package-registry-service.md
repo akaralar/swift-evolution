@@ -1,4 +1,4 @@
-# Package Registry Service
+# SE-0292 - Package Registry Service
 
 * Proposal: [SE-0292](0292-package-registry-service.md)
 * Authors: [Bryan Clark](https://github.com/clarkbw),

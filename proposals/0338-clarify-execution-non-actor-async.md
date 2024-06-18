@@ -1,4 +1,4 @@
-# Clarify the Execution of Non-Actor-Isolated Async Functions
+# SE-0338 - Clarify the Execution of Non-Actor-Isolated Async Functions
 
 * Proposal: [SE-0338](0338-clarify-execution-non-actor-async.md)
 * Author: [John McCall](https://github.com/rjmccall)

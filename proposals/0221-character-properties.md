@@ -1,4 +1,4 @@
-# Character Properties
+# SE-0221 - Character Properties
 
 * Proposal: [SE-0221](0221-character-properties.md)
 * Authors: [Michael Ilseman](https://github.com/milseman), [Tony Allevato](https://github.com/allevato)

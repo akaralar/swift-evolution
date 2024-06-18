@@ -1,4 +1,4 @@
-# Extend Property Wrappers to Function and Closure Parameters
+# SE-0293 - Extend Property Wrappers to Function and Closure Parameters
 
 * Proposal: [SE-0293](0293-extend-property-wrappers-to-function-and-closure-parameters.md)
 * Authors: [Holly Borla](https://github.com/hborla), [Filip Sakel](https://github.com/filip-sakel)

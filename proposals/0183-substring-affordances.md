@@ -1,4 +1,4 @@
-# Substring performance affordances
+# SE-0183 - Substring performance affordances
 
 * Proposal: [SE-0183](0183-substring-affordances.md)
 * Author: [Ben Cohen](https://github.com/airspeedswift)

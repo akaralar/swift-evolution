@@ -1,4 +1,4 @@
-# Rename Literal Syntax Protocols
+# SE-0115 - Rename Literal Syntax Protocols
 
 * Proposal: [SE-0115](0115-literal-syntax-protocols.md)
 * Author: [Matthew Johnson](https://github.com/anandabits)

@@ -1,4 +1,4 @@
-# Remove C-style for-loops with conditions and incrementers
+# SE-0007 - Remove C-style for-loops with conditions and incrementers
 
 * Proposal: [SE-0007](0007-remove-c-style-for-loops.md)
 * Author: [Erica Sadun](https://github.com/erica)

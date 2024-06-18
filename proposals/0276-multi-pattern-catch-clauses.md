@@ -1,4 +1,4 @@
-# Multi-Pattern Catch Clauses
+# SE-0276 - Multi-Pattern Catch Clauses
 
 * Proposal: [SE-0276](0276-multi-pattern-catch-clauses.md)
 * Author: [Owen Voorhees](https://github.com/owenv)

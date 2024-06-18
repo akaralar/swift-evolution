@@ -1,4 +1,4 @@
-# Callable values of user-defined nominal types
+# SE-0253 - Callable values of user-defined nominal types
 
 * Proposal: [SE-0253](0253-callable.md)
 * Authors: [Richard Wei](https://github.com/rxwei), [Dan Zheng](https://github.com/dan-zheng)

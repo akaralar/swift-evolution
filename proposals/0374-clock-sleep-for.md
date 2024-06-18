@@ -1,4 +1,4 @@
-# Add sleep(for:) to Clock
+# SE-0374 - Add sleep(for:) to Clock
 
 * Proposal: [SE-0374](0374-clock-sleep-for.md)
 * Authors: [Brandon Williams](https://github.com/mbrandonw), [Stephen Celis](https://github.com/stephencelis)

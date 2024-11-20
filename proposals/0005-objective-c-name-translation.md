@@ -266,7 +266,7 @@ a suffix of a string called the **type name**, which is defined as follows:
 #### Matching
 
 In order to prune a redundant type name from a selector piece, we
-need to match a substring of the selector that identifies the type.  
+need to match a substring of the selector that identifies the type.
 
 A couple of basic rules govern all matches:
 
@@ -372,7 +372,7 @@ skipped.
   first Objective-C selector piece becomes:
 
     * the base name of a method
-    * or the full name of a property 
+    * or the full name of a property
 
   neither of which can match a Swift keyword without forcing the
   user to write backticks.  For example,
@@ -418,7 +418,7 @@ skipped.
   button.<b>setTextColor</b>(.red())  <b>// clear</b>
   </pre>
 
-  If we were to drop `Color`, leaving just `Text`, call sites 
+  If we were to drop `Color`, leaving just `Text`, call sites
   would become confusing:
 
   <pre>
@@ -431,7 +431,7 @@ skipped.
   rule could be more simply phrased as "don't prune a suffix
   leaving a trailing noun before a parameter".
 
-* **Never prune a suffix from the base name of a method that matches a property of the enclosing class**: 
+* **Never prune a suffix from the base name of a method that matches a property of the enclosing class**:
 
   This heuristic has the effect of preventing us from producing
   too-generic names for methods that conceptually modify a property
@@ -492,7 +492,7 @@ shown:
    * and the remaining selector piece begins with "`By`" *followed by a gerund*,
 
    then prune the initial "`By`" as well.
-   
+
    This heuristic allows us to arrive at usage of the form `a =
    b.frobnicating(c)`.  For example:
 
@@ -520,7 +520,7 @@ shown:
    |a selector piece that introduces a parameter    |the parameter type name         |
    |the name of a property                          |the property type name          |
    |the name of a zero-argument method              |the return type name            |
-       
+
    For example,
 
    <pre>
@@ -621,15 +621,15 @@ arguments are added to parameters in the following cases:
 
 * **Option set types** whose type name contain the word "Options" are given a default value of `[]` (the empty option set).
 
-* **NSDictionary parameters** with names that involve "options", "attributes", or "info" are given a default value of `[:]`. 
+* **NSDictionary parameters** with names that involve "options", "attributes", or "info" are given a default value of `[:]`.
 
 Together, these heuristics allow code like:
 
 <pre>
 rootViewController.presentViewController(alert, animated: true<b>, completion: nil</b>)
 UIView.animateWithDuration(
-  0.2, delay: 0.0, <b>options: [],</b> animations: { self.logo.alpha = 0.0 }) { 
-    _ in self.logo.hidden = true 
+  0.2, delay: 0.0, <b>options: [],</b> animations: { self.logo.alpha = 0.0 }) {
+    _ in self.logo.hidden = true
 }
 </pre>
 
@@ -655,7 +655,7 @@ used. For example, instead of:
 
 <pre>
 extension UIBezierPath {
-  func enumerateObjects<b>With</b>(_: NSEnumerationOptions <b>= []</b>, using: (AnyObject, UnsafeMutablePointer<ObjCBool>) -> Void)
+  func enumerateObjects<b>With</b>(_: NSEnumerationOptions <b>= []</b>, using: (AnyObject, UnsafeMutablePointer&lt;ObjCBool&gt;) -> Void)
 }
 
 array.enumerateObjects<b>With</b>(.Reverse) { // OK
@@ -671,7 +671,7 @@ we get:
 
 <pre>
 extension NSArray {
-  func enumerateObjects(<b>options</b> _: NSEnumerationOptions <b>= []</b>, using: (AnyObject, UnsafeMutablePointer<ObjCBool>) -> Void)
+  func enumerateObjects(<b>options</b> _: NSEnumerationOptions <b>= []</b>, using: (AnyObject, UnsafeMutablePointer&lt;ObjCBool&gt;) -> Void)
 }
 
 array.enumerateObjects(<b>options:</b> .Reverse) { // OK
@@ -706,14 +706,14 @@ if path.<b>isEmpty</b> { ... }
 ### Conformance of implementers of compare method
 
 Currently, in comparing protocols, for example developers usually have
-to extend `NSDate` to make it to conform to `Comparable`, or use 
+to extend `NSDate` to make it to conform to `Comparable`, or use
 `compare(_:) -> NSComparisonResult` method of `NSDate` directly. In
-this case Using comparison operators on `NSDate`s will make the code 
-more readable, such as `someDate < today`, rather than 
+this case Using comparison operators on `NSDate`s will make the code
+more readable, such as `someDate < today`, rather than
 `someDate.compare(today) == .OrderedAscending`. Since the import process
-can determine if a class implements the objective-c method for 
+can determine if a class implements the objective-c method for
 comparison all classes that implement this method will then be imported
-as adopting `Comparable`. 
+as adopting `Comparable`.
 
 A survey of Foundation classes reveals not just NSDate but a few
 other classes that would be affected by this change.

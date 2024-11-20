@@ -24,7 +24,7 @@ We propose to add four new arguments to the target factory method: `cSettings`, 
 
 We propose to add the following build settings in this proposal:
 
-*Note: `<BuildSettingType>` represents the concrete type of a certain setting. Possible types are `CSetting`, `CXXSetting`, `SwiftSetting` or `LinkerSetting`. Each build setting in the upcoming section contains the method signature that will be available in their corresponding <BuildSettingType>.*
+*Note: `<BuildSettingType>` represents the concrete type of a certain setting. Possible types are `CSetting`, `CXXSetting`, `SwiftSetting` or `LinkerSetting`. Each build setting in the upcoming section contains the method signature that will be available in their corresponding &lt;BuildSettingType&gt;.*
 
 ### Header search path (C/CXX)
 
@@ -104,7 +104,7 @@ Here is an example usage of the proposed APIs:
         .define("DISABLE_SOMETHING", .when(platforms: [.iOS], configuration: .release)),
         .define("ENABLE_SOMETHING", .when(configuration: .release)),
 
-        // Unsafe flags will be rejected by SwiftPM when a product containing this 
+        // Unsafe flags will be rejected by SwiftPM when a product containing this
         // target is used as a dependency.
         .unsafeFlags(["-B=imma/haxx0r"]),
     ],

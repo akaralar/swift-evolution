@@ -18,7 +18,7 @@ Related forum threads:
 
 ## Motivation
 
-Compile-time constant values are values that can be known or computed during compilation and are guaranteed to not change after compilation. Use of such values can have many purposes, from enforcing desirable invariants and safety guarantees to enabling users to express arbitrarily-complex compile-time algorithms. 
+Compile-time constant values are values that can be known or computed during compilation and are guaranteed to not change after compilation. Use of such values can have many purposes, from enforcing desirable invariants and safety guarantees to enabling users to express arbitrarily-complex compile-time algorithms.
 
 The first step towards building out support for compile-time constructs in Swift is a basic primitives consisting of an attribute to declare function parameters and properties to require being known at *compile-time*. While this requirement explicitly calls out the compiler as having additional guaranteed information about such declarations, it can be naturally extended into a broader sense of *build-time* known values - with the compiler being able to inform other tools with type-contextual value information. For an example of the latter, see the “Declarative Package Manifest” motivating use-case below.
 
@@ -59,7 +59,7 @@ struct Foo {
   @const let title: String = "foo"
 }
 ```
-The value of such a property must be default-initialized with a compile-time-known value, unlike a plain `let` property, which can also be assigned a value in the type's initializer. 
+The value of such a property must be default-initialized with a compile-time-known value, unlike a plain `let` property, which can also be assigned a value in the type's initializer.
 
 ```swift
 struct Foo {
@@ -68,11 +68,11 @@ struct Foo {
   // ❌ error: `title` must be initialized with a const value
   @const let title: String
   // ❌ error: `subTitle` must be initialized with a const value
-  @const let subTitle: String = bar() 
+  @const let subTitle: String = bar()
 }
 ```
 
-Similarly to Implicitly-Unwrapped Optionals, the mental model for semantics of this attribute is that it is a flag on the declaration that  guarantees that the compiler is able to know its value as shared by all instance of the type. For now, `@const let` and `@const static let` are equivalent in what information the `@const` attribute conveys to the compiler. 
+Similarly to Implicitly-Unwrapped Optionals, the mental model for semantics of this attribute is that it is a flag on the declaration that  guarantees that the compiler is able to know its value as shared by all instance of the type. For now, `@const let` and `@const static let` are equivalent in what information the `@const` attribute conveys to the compiler.
 
 ### Parameter `@const` attribute
 
@@ -90,7 +90,7 @@ let x: Int = computeRuntimeCount()
 foo(x) // ❌ error: 'greeting' must be initialized with a const value
 ```
 
-### Protocol `@const` property requirement 
+### Protocol `@const` property requirement
 
 A protocol author may require conforming types to default initialize a given property with a compile-time-known value by specifying it as `@const static let` in the protocol definition. For example:
 
@@ -154,7 +154,7 @@ Or imagine a property wrapper that declares a property is to be serialized and t
 
 ```swift
 struct Foo {
-  @SpecialSerializationSauce(key: "title") 
+  @SpecialSerializationSauce(key: "title")
   var someSpecialTitleProperty: String
 }
 
@@ -164,7 +164,7 @@ struct SpecialSerializationSauce {
 }
 ```
 
-Having the compiler enforce the compile-time constant property of the `key` parameter eliminates the possibility of an error where a run-time value is specified which can cause serialized data to not be able to be deserialized, for example. 
+Having the compiler enforce the compile-time constant property of the `key` parameter eliminates the possibility of an error where a run-time value is specified which can cause serialized data to not be able to be deserialized, for example.
 
 Enforcing compile-time constant nature of the parameters is also the first step to allowing attribute/library authors to be able to check uses by performing compile-time sanity checking and having the capability to emit custom build-time error messages.
 
@@ -193,13 +193,13 @@ let package = Package {
     Library("MyTestUtilities")
     Test("MyExecutableTests", for: "MyExecutable", include: {
         Internal("MyTestUtilities")
-        External("SomeModule", from: "some-package") 
+        External("SomeModule", from: "some-package")
       })
     Test("MyLibraryTests", for: "MyLibrary")
   }
   Dependencies {
     SourceControl(at: "https://git-service.com/foo/some-package", upToNextMajor: "1.0.0")
-  } 
+  }
 }
 ```
 
@@ -210,14 +210,14 @@ To *ensure* build-time extractability of the relevant manifest structure, a form
 ```swift
 Test("MyExecutableTests", for: "MyExecutable", include: {
         Internal("MyTestUtilities")
-        External("SomeModule", from: "some-package") 
+        External("SomeModule", from: "some-package")
       })
 ```
 By providing a specialized version of the relevant types (`Test`, `Internal`, `External`) that rely on parameters relevant to extracting the package structure being `const`:
 
 ```swift
 struct Test {
-  init(@const _ title: String, @const for: String, @DependencyBuilder include: ...) {...} 
+  init(@const _ title: String, @const for: String, @DependencyBuilder include: ...) {...}
 }
 struct Internal {
   init(@const _ title: String)
@@ -226,11 +226,11 @@ struct External {
   init(@const _ title: String, @const from: String)
 }
 ```
-This could, in theory, allow SwiftPM to build such packages without executing their manifest. Some packages, of course, could still require run-time (execution at package build-time) Swift constructs. More-generally, providing the possibility of declarative APIs that can express build-time-knowable abstractions can both eliminate (in some cases) the need for code execution - reducing the security surface area - and allow for further novel use-cases of Swift’s DSL capabilities (e.g. build-time extractable database schema, etc.). 
+This could, in theory, allow SwiftPM to build such packages without executing their manifest. Some packages, of course, could still require run-time (execution at package build-time) Swift constructs. More-generally, providing the possibility of declarative APIs that can express build-time-knowable abstractions can both eliminate (in some cases) the need for code execution - reducing the security surface area - and allow for further novel use-cases of Swift’s DSL capabilities (e.g. build-time extractable database schema, etc.).
 
 ### Guaranteed Optimization Hints
 
-Similarly, ergonomics of numeric intrinsics can benefit from allowing only certain function parameters to be required to be compile-time known. For example, requiring a given numeric operation to specify a `@const` parameter for the rounding mode of an operation as an enum case, while allowing the operands of the operation be runtime values, allowing the compiler to generate more-efficient code. 
+Similarly, ergonomics of numeric intrinsics can benefit from allowing only certain function parameters to be required to be compile-time known. For example, requiring a given numeric operation to specify a `@const` parameter for the rounding mode of an operation as an enum case, while allowing the operands of the operation be runtime values, allowing the compiler to generate more-efficient code.
 
 ## Source compatibility
 
@@ -269,14 +269,14 @@ This shifts the information conveyed to the compiler about this declaration to b
 typealias CI = @const Int
 let x: CI?
 ```
-What is the type of `x`? It appears to be Optional<@const Int>, which is not a meaningful or useful type, and the programmer most likely intended to have a @const Optional<Int>. And although today Implicitly-Unwrapped optional syntax conveys an additional bit of information about the declared value using a syntactic indicator on the declared type, without affecting the declaration's type, the [historical context](https://www.swift.org/blog/iuo/) of that feature makes it a poor example to justify requiring consistency with it.
+What is the type of `x`? It appears to be Optional<@const Int>, which is not a meaningful or useful type, and the programmer most likely intended to have a @const Optional&lt;Int&gt;. And although today Implicitly-Unwrapped optional syntax conveys an additional bit of information about the declared value using a syntactic indicator on the declared type, without affecting the declaration's type, the [historical context](https://www.swift.org/blog/iuo/) of that feature makes it a poor example to justify requiring consistency with it.
 
 ### Alternative attribute names
 More-explicit spellings of the attribute's intent were proposed in the form of `@buildTime`/`@compileTime`/`@comptime`, and the use of `const` was also examined as a holdover from its use in C++.
 
 While build-time knowability of values this attribute covers is one of the intended semantic takeaways, the potential use of this attribute for various optimization purposes also lends itself to indicate the additional immutability guarantees on top of a plain `let` (which can be initialized with a dynamic value), as well as capturing the build-time evaluation/knowledge signal. For example, in the case of global variables, thread-safe lazy initialization of `@const` variables may no longer be necessary, in which case the meaning of the term `const` becomes even more explicit.
 
-Similarly with the comparison to C++, where the language uses the term `const` to describe a runtime behaviour concept, rather than convey information about the actual value. The use of the term `const` is more in line with the mathematical meaning of having the value be a **defined** constant. 
+Similarly with the comparison to C++, where the language uses the term `const` to describe a runtime behaviour concept, rather than convey information about the actual value. The use of the term `const` is more in line with the mathematical meaning of having the value be a **defined** constant.
 
 ## Forward-Looking Design Aspects and Future Directions
 

@@ -84,7 +84,7 @@ var byteBuffer = [UInt8]()
 intArray.withUnsafeBytes {
 
   byteBuffer += $0
-  
+
   assert(byteBuffer[0..<4] == [1, 0, 0, 0])
 
   for (i, b) in $0.enumerated() {
@@ -146,7 +146,7 @@ Please see the doc comments provided in [Detailed design](#detailed-design).
 
 Add an `Array.withUnsafe[Mutable]Bytes<R>(_)` method that passes an
 `UnsafeRawBufferPointer` view of the array buffer to the closure body.
-    
+
 Add a `withUnsafeMutableBytes<T, R>(of:_)` function that passes an
 `UnsafeRawBufferPointer` view of a value of type `T` to the closure body.
 
@@ -311,7 +311,7 @@ func read(from fd: Int32) {
   let tmp = UnsafeMutableBufferPointer(
     start: UnsafeMutablePointer<UInt8>.allocate(capacity: tmpBufferSize),
     count: tmpBufferSize)
-        
+
   while true {
     let result = read(self.inputFD, tmp.baseAddress, tmpBufferSize)
     assert(result >= 0)
@@ -547,7 +547,7 @@ public class OutputByteStream {
       write(bytes: $0)
     }
   }
-  
+
   /// Write a sequence of bytes to the buffer.
   public final func write(_ bytes: [UInt8]) {
     bytes.withUnsafeBytes {
@@ -584,7 +584,7 @@ can be correctly expressed using `UnsafeRawBufferPointer` without binding memory
 public final class FlatBufferBuilder {
   private var _data : UnsafeMutableRawBufferPointer
   var cursor = 0 // ignore left/right cursor for brevity.
-  
+
   private var freeSpace { return _data.suffix(from: cursor) }
 
   public func put<T : Scalar>(value: T) {
@@ -628,7 +628,7 @@ public final class FlatBufferReader {
 This JSON parsing library can accept `struct Data` input [here](
 https://github.com/owensd/json-swift/blob/master/src/JSValue.Parsing.swift#L23).
 It then passes the bytes in data to a lower-level `parse` routine that
-operates directly on UnsafeBufferPointer<UInt8>. (The library accepts
+operates directly on UnsafeBufferPointer&lt;UInt8&gt;. (The library accepts
 various input sources, including NSData and String, then drops down to
 unsafe pointer to avoid copying). During 3.0 migration, a call to
 `bindMemory(to:count:)` would need to be introduced to make it safe to
@@ -757,7 +757,7 @@ public struct Unsafe${Mutable}RawBufferPointer
     /// Once `nil` has been returned, all subsequent calls return `nil`.
     public mutating func next() -> UInt8? {
       if _position == _end { return nil }
-      
+
       let result = _position!.load(as: UInt8.self)
       _position! += 1
       return result
@@ -807,7 +807,7 @@ public struct Unsafe${Mutable}RawBufferPointer
 
 %  if mutable:
   /// Stores a value's bytes into raw memory at `self + offset`.
-  ///  
+  ///
   /// - Precondition: `offset + MemoryLayout<T>.size < self.count`
   ///
   /// - Precondition: The underlying pointer plus `offset` is properly
@@ -818,7 +818,7 @@ public struct Unsafe${Mutable}RawBufferPointer
   /// - Precondition: The memory is uninitialized, or initialized to
   ///   some trivial type `U` such that `T` and `U` are mutually layout
   ///   compatible.
-  /// 
+  ///
   /// - Postcondition: The memory is initialized to raw bytes. If the
   ///   memory is bound to type `U`, then it now contains a value of
   ///   type `U`.
@@ -839,7 +839,7 @@ public struct Unsafe${Mutable}RawBufferPointer
   }
 
   /// Copies `count` bytes from `source` into memory at `self`.
-  ///  
+  ///
   /// - Precondition: `count` is non-negative.
   ///
   /// - Precondition: The memory at `source..<source + count` is

@@ -36,7 +36,7 @@ escaping to use those APIs. For example:
 
 Allow the use of all keywords except `inout`, `var`, and `let` as argument labels. This affects the grammar in three places:
 
-* Call expressions, such as the examples above. Here, we have no grammatic ambiguities, because "<keyword> \`:\`" does not appear in any grammar production within a parenthesized expression list. This is, by far, the most important case.
+* Call expressions, such as the examples above. Here, we have no grammatic ambiguities, because "`<keyword> :`" does not appear in any grammar production within a parenthesized expression list. This is, by far, the most important case.
 
 * Function/subscript/initializer declarations: aside from the three exclusions above, there is no ambiguity here because the keyword will always be followed by an identifier, ‘:’, or ‘_’. For example:
 
@@ -83,4 +83,3 @@ Swift grammar--for loops and closures--so it could be made
 context-sensitive. However, this solution is somewhat more complicated
 (because it requires more context-sensitive keyword parsing) and less
 general.
-

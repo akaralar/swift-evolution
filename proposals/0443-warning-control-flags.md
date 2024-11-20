@@ -1,5 +1,4 @@
-# SE-0443 - 
-# Precise Control Flags over Compiler Warnings
+# SE-0443 - Precise Control Flags over Compiler Warnings
 
 * Proposal: [SE-0443](0443-warning-control-flags.md)
 * Authors: [Doug Gregor](https://github.com/douggregor), [Dmitrii Galimzianov](https://github.com/DmT021)
@@ -88,11 +87,11 @@ When these options are passed to the compiler, we sequentially apply the specifi
 
 Examples of option combinations:
 - `-warnings-as-errors -Wwarning deprecated`
-  
+
   Warnings from the `deprecated` group will be kept as warnings, but all the rest will be upgraded to errors.
 
-- `-Werror deprecated -Wwarning availability_deprecated` 
-  
+- `-Werror deprecated -Wwarning availability_deprecated`
+
   Warnings from the `availability_deprecated` group will remain as warnings. Other warnings from the `deprecated` group will be upgraded to errors. All others will be kept as warnings.
 
 It’s crucial to understand that the order in which these flags are applied can significantly affect the behavior of diagnostics. The rule is "the last one wins", meaning that if multiple flags apply to the same diagnostic group, the last one specified on the command line will determine the final behavior.
@@ -232,7 +231,7 @@ Moreover, `-print-diagnostic-groups` provides a formalized version of the same f
 ## Revision History
 
 - Revisions based on review feedback:
-  - `-Wsuppress` was excluded from the proposal. 
+  - `-Wsuppress` was excluded from the proposal.
   - `-suppress-warnings` was excluded from the unified model and addressed separately by forbidding its usage with the new flags.
   - The guideline in the "Diagnostic Groups" subsection for adding a new diagnostic has been softened to a consideration.
 

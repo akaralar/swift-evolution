@@ -174,7 +174,7 @@ dynamic property of the memory used to formalize type safety.
 
 Whenever memory is accessed via a typed pointer, the memory must be
 bound to a related type. This includes operations on
-Unsafe[Mutable]Pointer<T> in addition to regular language constructs,
+Unsafe[Mutable]Pointer&lt;T&gt; in addition to regular language constructs,
 which are always strictly typed. It does not include memory accessed
 via a raw pointer, which is not strictly typed. Violations result in
 undefined behavior.
@@ -243,7 +243,7 @@ UnsafeMutableRawPointer {
   /// - Precondition: The memory is uninitialized, or initialized to some
   ///   trivial type `U` such that `T` and `U` are mutually layout
   ///   compatible.
-  /// 
+  ///
   /// - Postcondition: The memory is initialized to raw bytes. If the
   ///   memory is bound to type `U`, then it now contains a value of
   ///   type `U`.
@@ -339,7 +339,7 @@ pointer's type has been erased:
 
 ```swift
 Unsafe[Mutable]RawPointer {
-  func assumingMemoryBound<T>(to: T.Type) -> Unsafe[Mutable]Pointer<T> 
+  func assumingMemoryBound<T>(to: T.Type) -> Unsafe[Mutable]Pointer<T>
 }
 ```
 
@@ -859,8 +859,8 @@ the memory no longer holds a value.
 
 Consider the sequence of abstract memory operations:
 
-Abstract Operation                  | Memory State 
------------------------------------ | ------------ 
+Abstract Operation                  | Memory State
+----------------------------------- | ------------
 `rawptr = allocate()`               | uninitialized
 `tptr = rawptr.initializeMemory(T)` | initialized
 `tptr.pointee = T`                  | initialized
@@ -1836,7 +1836,7 @@ it would certainly cause confusion without doing much to reduce
 likelihood of programmer error. Furthermore, there are no good use
 cases for such a property evident in the standard library.
 
-### Special UnsafeMutablePointer<RawByte> type
+### Special UnsafeMutablePointer&lt;RawByte&gt; type
 
 The opaque `_RawByte` struct is a technique that allows for
 byte-addressable buffers while hiding the dangerous side effects of
